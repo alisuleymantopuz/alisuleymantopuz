@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Ali, from Istanbul, ![image](flag32.png)
+## Hello there 👋 I'm Ali, from Istanbul, ![image](https://raw.githubusercontent.com/alisuleymantopuz/alisuleymantopuz/master/flag32.png)
 
 ### Working as technical architect, solutions developer, certified trainer. 
 Experienced in:
