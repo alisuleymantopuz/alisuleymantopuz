@@ -19,3 +19,8 @@ Experienced in:
 - [Quick Start: A fictionalized CQRS design example — why / where / how](https://medium.com/@topuzas/quick-start-a-fictionalized-cqrs-design-example-why-where-how-5399d576db90?source=rss-8f0134a6aa62------2)
 - [Sitecore XP Solutions— Don’t forget to do healthcheck for your experience platform!](https://medium.com/@topuzas/sitecore-xp-solutions-dont-forget-to-do-healthcheck-for-your-experience-platform-415c70d7192c?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+
+<img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
