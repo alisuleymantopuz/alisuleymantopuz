@@ -21,6 +21,8 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 9: state management react and axios](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-9-state-management-react-and-axios-72205f183cee?source=rss-8f0134a6aa62------2)
+- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 8: react app navigation and folders](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-8-react-app-navigation-and-folders-714813dd6031?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 7: exception handling n validation](https://medium.com/@topuzas/quick-start-asp-net-dddc58901ed5?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 6: hateoas and options usage](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-6-hateoas-and-options-usage-d119e7158ffd?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 5: pagination, search and sort](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-5-pagination-search-and-sort-493eec44297d?source=rss-8f0134a6aa62------2)
@@ -29,8 +31,6 @@ Experienced in:
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 2: service config and onion arch](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-2-service-config-and-onion-arch-3d908cce30be?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1, Entity Framework Core, CQRS, React JS Series](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-entity-framework-core-cqrs-react-js-series-c8a427385aed?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 1: db config code first](https://medium.com/@topuzas/quick-start-asp-net-a47bbfe755c8?source=rss-8f0134a6aa62------2)
-- [Quick Start: Progressive Web Applications with  React — End 2 end example with Netlify integration](https://medium.com/@topuzas/quick-start-progressive-web-applications-with-react-end-2-end-example-with-netlify-integration-abf54f6098cb?source=rss-8f0134a6aa62------2)
-- [Quick Start: A fictionalized CQRS design example — why / where / how](https://medium.com/@topuzas/quick-start-a-fictionalized-cqrs-design-example-why-where-how-5399d576db90?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
