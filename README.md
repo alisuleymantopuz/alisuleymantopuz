@@ -21,7 +21,7 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick start: ASP.Net](https://medium.com/@topuzas/quick-start-asp-net-dddc58901ed5?source=rss-8f0134a6aa62------2)
+- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 7: exception handling n validation](https://medium.com/@topuzas/quick-start-asp-net-dddc58901ed5?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 6: hateoas and options usage](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-6-hateoas-and-options-usage-d119e7158ffd?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 5: pagination, search and sort](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-5-pagination-search-and-sort-493eec44297d?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 4: repository pattern](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-4-repository-pattern-748faaa715f1?source=rss-8f0134a6aa62------2)
