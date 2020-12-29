@@ -21,6 +21,8 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 13: HttpPut and HttpDelete requests](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-13-httpput-and-httpdelete-requests-a123ecbca231?source=rss-8f0134a6aa62------2)
+- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 12: create form, validate, post req](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-12-create-form-validate-post-req-d64ab19105ad?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 11: error handling](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-11-error-handling-f9e723fa4391?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 10: async lazy loading and hoc](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-10-async-lazy-loading-and-hoc-a649834695d9?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 9: state management react and axios](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-9-state-management-react-and-axios-72205f183cee?source=rss-8f0134a6aa62------2)
@@ -29,8 +31,6 @@ Experienced in:
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 6: hateoas and options usage](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-6-hateoas-and-options-usage-d119e7158ffd?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 5: pagination, search and sort](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-5-pagination-search-and-sort-493eec44297d?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 4: repository pattern](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-4-repository-pattern-748faaa715f1?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 3: custom logging configuration](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-3-custom-logging-configuration-f32677d3578f?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 2: service config and onion arch](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-2-service-config-and-onion-arch-3d908cce30be?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
