@@ -20,6 +20,9 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick Start: How could you build a messaging solution with .Net Core? — Part 3](https://medium.com/@topuzas/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-3-4ddb3a1cbda9?source=rss-8f0134a6aa62------2)
+- [Quick Start: How could you build a messaging solution with .Net Core? — Part 2](https://medium.com/@topuzas/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-2-b2e047df3565?source=rss-8f0134a6aa62------2)
+- [Quick Start: How could you build a messaging solution with .Net Core?](https://medium.com/@topuzas/quick-start-how-could-you-build-a-messaging-solution-with-net-core-b5f8253f31ea?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series Part 15: Import random by hangfire jobs](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-15-import-random-by-hangfire-jobs-303564e11192?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 14: Simultaneously list w SignalR](https://medium.com/@topuzas/quick-start-asp-net-f88ef81e3da3?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 13: HttpPut and HttpDelete requests](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-13-httpput-and-httpdelete-requests-a123ecbca231?source=rss-8f0134a6aa62------2)
@@ -27,9 +30,6 @@ Experienced in:
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 11: error handling](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-11-error-handling-f9e723fa4391?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 10: async lazy loading and hoc](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-10-async-lazy-loading-and-hoc-a649834695d9?source=rss-8f0134a6aa62------2)
 - [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 9: state management react and axios](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-9-state-management-react-and-axios-72205f183cee?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 8: react app navigation and folders](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-8-react-app-navigation-and-folders-714813dd6031?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 7: exception handling n validation](https://medium.com/@topuzas/quick-start-asp-net-dddc58901ed5?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series part 6: hateoas and options usage](https://medium.com/@topuzas/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-6-hateoas-and-options-usage-d119e7158ffd?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
