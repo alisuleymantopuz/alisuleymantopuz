@@ -20,7 +20,7 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you an implementor? Or, A decision maker to have it to be implemented?](https://topuzas.medium.com/are-you-an-implementor-or-a-decision-maker-to-have-it-to-be-implemented-4e23d4684bf8?source=rss-8f0134a6aa62------2)
+- [Are you an implementor? Or, A decision maker to have it to be implemented?](https://medium.com/c-sharp-progarmming/are-you-an-implementor-or-a-decision-maker-to-have-it-to-be-implemented-4e23d4684bf8?source=rss-8f0134a6aa62------2)
 - [Azure Alerts — Define alert rule in your application service to catch failed requests by Webhook!](https://medium.com/c-sharp-progarmming/azure-alerts-define-alert-rule-in-your-application-service-to-catch-failed-requests-by-webhook-ad987bda1188?source=rss-8f0134a6aa62------2)
 - [My notes about Messaging Solutions and Microsoft Azure Messaging Services](https://medium.com/c-sharp-progarmming/my-notes-about-messaging-solutions-and-microsoft-azure-messaging-services-1d2d55e6d2dd?source=rss-8f0134a6aa62------2)
 - [Quick Start: How could you build a messaging solution with .Net Core? — Part 4](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-4-3e3cf92baa82?source=rss-8f0134a6aa62------2)
