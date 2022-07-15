@@ -1,5 +1,5 @@
 ## Hello there! I'm Ali, from Istanbul, ![image](https://raw.githubusercontent.com/alisuleymantopuz/alisuleymantopuz/master/flag32.png)
-### Software architect, solutions developer.
+### Software architect, Solutions developer.
 
 Experienced in:
 
