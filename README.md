@@ -3,7 +3,7 @@
 
 Experienced in:
 
-- Microsoft software development stack (.Net Framework and .Net Core)
+- Software development stack (.Net Framework, .Net Core, Node.js)
 - Distributed Architecture
 - Microservices Architecture
 - CMS Products (Sitecore, Umbraco, Sitefinity, Episerver)
