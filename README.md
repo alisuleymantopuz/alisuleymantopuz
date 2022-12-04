@@ -20,6 +20,7 @@ Experienced in:
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get prepared your Solution Architect interview!](https://topuzas.medium.com/get-prepared-your-solution-architect-interview-22e7180c50bc?source=rss-8f0134a6aa62------2)
 - [Anyone needs push notifications for changes in RavenDB ?](https://topuzas.medium.com/anyone-needs-push-notifications-for-changes-in-ravendb-87f466de0696?source=rss-8f0134a6aa62------2)
 - [Complexity: An unwished experience in scaling and maturity phases](https://topuzas.medium.com/complexity-an-unwished-experience-in-scaling-and-maturity-phases-3302fddc09fd?source=rss-8f0134a6aa62------2)
 - [Are you an implementor? Or, A decision maker to have it to be implemented?](https://medium.com/c-sharp-progarmming/are-you-an-implementor-or-a-decision-maker-to-have-it-to-be-implemented-4e23d4684bf8?source=rss-8f0134a6aa62------2)
@@ -29,7 +30,6 @@ Experienced in:
 - [Quick Start: How could you build a messaging solution with .Net Core? — Part 3](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-3-4ddb3a1cbda9?source=rss-8f0134a6aa62------2)
 - [Quick Start: How could you build a messaging solution with .Net Core? — Part 2](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-2-b2e047df3565?source=rss-8f0134a6aa62------2)
 - [Quick Start: How could you build a messaging solution with .Net Core?](https://medium.com/c-sharp-progarmming/quick-start-how-could-you-build-a-messaging-solution-with-net-core-b5f8253f31ea?source=rss-8f0134a6aa62------2)
-- [Quick start: ASP.Net Core 3.1 EF Core CQRS React JS Series Part 15: Import random by hangfire jobs](https://medium.com/c-sharp-progarmming/quick-start-asp-net-core-3-1-ef-core-cqrs-react-js-series-part-15-import-random-by-hangfire-jobs-303564e11192?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
