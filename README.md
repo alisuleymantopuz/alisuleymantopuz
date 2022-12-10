@@ -1,7 +1,10 @@
-## Hello there! I'm Ali, from Istanbul, ![image](https://raw.githubusercontent.com/alisuleymantopuz/alisuleymantopuz/master/flag32.png)
-### Software architect, Solutions developer.
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Falisuleymantopuz.alisuleymantopuz%2Freadme)
 
-Experienced in:
+#   Ali Süleyman TOPUZ
+##  Software Engineering and Development Professional.
+### Writes about software development & tech. 📍🇹🇷
+
+#### Specialities
 
 - Software development (.Net, MERN, Jamstack)
 - Distributed Architecture
@@ -13,11 +16,14 @@ Experienced in:
 - API Design and Development
 - Prototyping
 
-#### Connect with me
+#### Connect
 
 <a href="https://github.com/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" /></a> &nbsp; <a href="https://www.instagram.com/topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="32px" /></a> &nbsp; <a href="https://www.linkedin.com/in/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" /></a> &nbsp; <a href="https://medium.com/@topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32px" /></a> &nbsp; <a href="mailto:alisuleymantopuz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" /></a>
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Falisuleymantopuz.alisuleymantopuz%2Freadme)
+#### Statistics
+
+<img align="center" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true&theme=transparent"/>
+
 
 #### Latest blog posts
 
@@ -34,4 +40,3 @@ Experienced in:
 - [Quick Start: How could you build a messaging solution with .Net Core?](https://medium.com/c-sharp-progarmming/quick-start-how-could-you-build-a-messaging-solution-with-net-core-b5f8253f31ea?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true&theme=transparent" />
