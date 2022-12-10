@@ -3,13 +3,15 @@
 
 Experienced in:
 
-- Software development stack (.Net Framework, .Net Core, Node.js)
+- Software development (.Net, MERN, Jamstack)
 - Distributed Architecture
 - Microservices Architecture
-- CMS Products (Sitecore, Umbraco, Sitefinity, Episerver)
-- DevOps (Docker, Azure Devops)
-- Delivery and Designing technical solutions
-- Prototyping and UX
+- Enterprise Applications Design & Development
+- SaaS
+- DevOps
+- Design, Development and Delivery software solutions
+- API Design and Development
+- Prototyping
 
 #### Connect with me
 
@@ -32,4 +34,4 @@ Experienced in:
 - [Quick Start: How could you build a messaging solution with .Net Core?](https://medium.com/c-sharp-progarmming/quick-start-how-could-you-build-a-messaging-solution-with-net-core-b5f8253f31ea?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true" />
+<img align="left" alt="Ali Suleyman Topuz - Github stats" src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&hide_border=true&theme=transparent" />
