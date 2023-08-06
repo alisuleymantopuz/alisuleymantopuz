@@ -28,15 +28,15 @@
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get prepared your Solution Architect interview!](https://topuzas.medium.com/get-prepared-your-solution-architect-interview-22e7180c50bc?source=rss-8f0134a6aa62------2)
-- [Anyone needs push notifications for changes in RavenDB ?](https://topuzas.medium.com/anyone-needs-push-notifications-for-changes-in-ravendb-87f466de0696?source=rss-8f0134a6aa62------2)
-- [Complexity: An unwished experience in scaling and maturity phases](https://topuzas.medium.com/complexity-an-unwished-experience-in-scaling-and-maturity-phases-3302fddc09fd?source=rss-8f0134a6aa62------2)
-- [Are you an implementor? Or, A decision maker to have it to be implemented?](https://medium.com/c-sharp-progarmming/are-you-an-implementor-or-a-decision-maker-to-have-it-to-be-implemented-4e23d4684bf8?source=rss-8f0134a6aa62------2)
-- [Azure Alerts — Define alert rule in your application service to catch failed requests by Webhook!](https://medium.com/c-sharp-progarmming/azure-alerts-define-alert-rule-in-your-application-service-to-catch-failed-requests-by-webhook-ad987bda1188?source=rss-8f0134a6aa62------2)
-- [My notes about Messaging Solutions and Microsoft Azure Messaging Services](https://medium.com/c-sharp-progarmming/my-notes-about-messaging-solutions-and-microsoft-azure-messaging-services-1d2d55e6d2dd?source=rss-8f0134a6aa62------2)
-- [Quick Start: How could you build a messaging solution with .Net Core? — Part 4](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-4-3e3cf92baa82?source=rss-8f0134a6aa62------2)
-- [Quick Start: How could you build a messaging solution with .Net Core? — Part 3](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-3-4ddb3a1cbda9?source=rss-8f0134a6aa62------2)
-- [Quick Start: How could you build a messaging solution with .Net Core? — Part 2](https://topuzas.medium.com/quick-start-how-could-you-build-a-messaging-solution-with-net-core-part-2-b2e047df3565?source=rss-8f0134a6aa62------2)
-- [Quick Start: How could you build a messaging solution with .Net Core?](https://medium.com/c-sharp-progarmming/quick-start-how-could-you-build-a-messaging-solution-with-net-core-b5f8253f31ea?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship: Crafting Excellence in the Digital Age](https://topuzas.medium.com/software-craftsmanship-crafting-excellence-in-the-digital-age-2cb064afcbbc?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Crafting Software in the Age of AI: Marrying Mastery with Machine…](https://topuzas.medium.com/software-craftsmanship-crafting-software-in-the-age-of-ai-marrying-mastery-with-machine-76070a9e4340?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Case Studies in Software Craftsmanship: A Dive into Mastery in Action](https://topuzas.medium.com/software-craftsmanship-case-studies-in-software-craftsmanship-a-dive-into-mastery-in-action-53a27b387859?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Personal Growth and Lifelong Learning: The Heartbeat of a Software…](https://topuzas.medium.com/software-craftsmanship-personal-growth-and-lifelong-learning-the-heartbeat-of-a-software-494f487a288b?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — The Future of Software Craftsmanship: Navigating Emerging Trends and…](https://topuzas.medium.com/software-craftsmanship-the-future-of-software-craftsmanship-navigating-emerging-trends-and-b9ef422ff76c?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Software Craftsmanship Communities: Nurturing Excellence in the Digital…](https://topuzas.medium.com/software-craftsmanship-software-craftsmanship-communities-nurturing-excellence-in-the-digital-c7d12774f269?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — The Master-Apprentice Model: Breathing New Life into Software Development…](https://topuzas.medium.com/software-craftsmanship-the-master-apprentice-model-breathing-new-life-into-software-development-7b8ecb47b890?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Software Craftsmanship Ethics: Upholding Responsibility, Accountability…](https://topuzas.medium.com/software-craftsmanship-software-craftsmanship-ethics-upholding-responsibility-accountability-5c09893ce33e?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar;: The Backbone of…](https://topuzas.medium.com/software-craftsmanship-continuous-integration-continuous-deployment-ci-cd-the-backbone-of-3abb6be29b9f?source=rss-8f0134a6aa62------2)
+- [Software Craftsmanship — Pair Programming: Collaborative Coding for Enhanced Knowledge and Quality](https://topuzas.medium.com/software-craftsmanship-pair-programming-collaborative-coding-for-enhanced-knowledge-and-quality-f589c92913a7?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
