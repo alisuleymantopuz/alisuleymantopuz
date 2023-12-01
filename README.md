@@ -28,6 +28,7 @@
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Azure Durable Functions Over Azure Service Bus: A Comprehensive Analysis](https://topuzas.medium.com/choosing-azure-durable-functions-over-azure-service-bus-a-comprehensive-analysis-43b2487319aa?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship: Crafting Excellence in the Digital Age](https://topuzas.medium.com/software-craftsmanship-crafting-excellence-in-the-digital-age-2cb064afcbbc?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship — Crafting Software in the Age of AI: Marrying Mastery with Machine…](https://topuzas.medium.com/software-craftsmanship-crafting-software-in-the-age-of-ai-marrying-mastery-with-machine-76070a9e4340?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship — Case Studies in Software Craftsmanship: A Dive into Mastery in Action](https://topuzas.medium.com/software-craftsmanship-case-studies-in-software-craftsmanship-a-dive-into-mastery-in-action-53a27b387859?source=rss-8f0134a6aa62------2)
@@ -37,6 +38,5 @@
 - [Software Craftsmanship — The Master-Apprentice Model: Breathing New Life into Software Development…](https://topuzas.medium.com/software-craftsmanship-the-master-apprentice-model-breathing-new-life-into-software-development-7b8ecb47b890?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship — Software Craftsmanship Ethics: Upholding Responsibility, Accountability…](https://topuzas.medium.com/software-craftsmanship-software-craftsmanship-ethics-upholding-responsibility-accountability-5c09893ce33e?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship — Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar;: The Backbone of…](https://topuzas.medium.com/software-craftsmanship-continuous-integration-continuous-deployment-ci-cd-the-backbone-of-3abb6be29b9f?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship — Pair Programming: Collaborative Coding for Enhanced Knowledge and Quality](https://topuzas.medium.com/software-craftsmanship-pair-programming-collaborative-coding-for-enhanced-knowledge-and-quality-f589c92913a7?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
