@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/alisuleymantopuz/count.svg)
+![Visitor Badge](https://komarev.com/ghpvc/?username=alisuleymantopuz&label=Visitors&color=blue&style=flat)
 
 #   Ali Süleyman TOPUZ
 ##  Software Engineering and Development Professional.
