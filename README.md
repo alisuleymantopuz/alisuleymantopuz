@@ -1,20 +1,31 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=alisuleymantopuz&label=Visitors&color=blue&style=flat)
 
 #   Ali Süleyman TOPUZ
-##  Software Engineering and Development Professional.
-### Writes about software development & tech. 📍🇹🇷
+Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder
+📍 Based in Istanbul 🇹🇷 · Working Globally · 14+ Yrs in Tech
 
-#### Specialities
+---
 
-- Software development (.Net, MERN, Jamstack)
-- Distributed Architecture
-- Microservices Architecture
-- Enterprise Applications Design & Development
-- SaaS
-- DevOps
-- Design, Development and Delivery software solutions
-- API Design and Development
-- Prototyping
+💡 I design, build and deliver scalable cloud-native platforms with .NET, Azure, and modern frontend stacks.  
+🔁 Experienced in real-world implementations of **DDD, CQRS, Event-Driven Architecture**, and **API-first** systems.
+
+🛠️ Areas I work on:
+- Modernizing legacy systems for the cloud
+- Multi-tenant SaaS applications & CPQ platforms
+- Self-service APIs & external integrations
+- AI-powered internal tools using OpenAI, Pinecone, Cohere
+- Cross-system data transformation & reconciliation pipelines
+
+🚀 Tech Highlights:
+- **Backend:** `.NET 6/8`, Node.js, Python, Go  
+- **Frontend:** `React`, `AngularJS`, `Blazor`, `TypeScript`, SPA  
+- **Cloud:** Microsoft Azure, AWS  
+- **DevOps:** Azure DevOps, GitHub Actions, Docker, Terraform  
+- **AI/LLM:** Azure OpenAI, Cohere, Pinecone, LangChain  
+
+🧠 I blog at [topuzas.medium.com](https://topuzas.medium.com) on architecture, clean code, and LLM integrations.
+
+📬 Reach me at **alisuleymantopuz@gmail.com**
 
 #### Connect
 
