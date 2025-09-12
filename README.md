@@ -11,7 +11,7 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder
 
 🛠️ Areas I work on:
 - Modernizing legacy systems for the cloud
-- Multi-tenant SaaS applications & CPQ platforms
+- Multi-tenant SaaS applications
 - Self-service APIs & external integrations
 - AI-powered internal tools using OpenAI, Pinecone, Cohere
 - Cross-system data transformation & reconciliation pipelines
