@@ -29,7 +29,7 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder
 
 #### Connect
 
-<a href="https://github.com/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" /></a> &nbsp; <a href="https://www.instagram.com/topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="32px" /></a> &nbsp; <a href="https://www.linkedin.com/in/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" /></a> &nbsp; <a href="https://medium.com/@topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32px" /></a> &nbsp; <a href="mailto:alisuleymantopuz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" /></a>
+<a href="https://github.com/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" /></a> &nbsp; <a href="https://www.linkedin.com/in/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" /></a> &nbsp; <a href="https://medium.com/@topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32px" /></a> &nbsp; <a href="mailto:alisuleymantopuz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" /></a>
 
 #### Statistics
 
