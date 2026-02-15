@@ -27,15 +27,15 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://topuzas.medium.com/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-7f2a4888db14?source=rss-8f0134a6aa62------2)
+- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://topuzas.medium.com/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-7b27a176b2a1?source=rss-8f0134a6aa62------2)
+- [Microservices: When Architectural Freedom Becomes Operational Debt](https://topuzas.medium.com/microservices-when-architectural-freedom-becomes-operational-debt-5c19f7d4b9a3?source=rss-8f0134a6aa62------2)
+- [Carl Jung’s 12 Laws — Rewritten for Software Engineers &lpar;With Real-Life Tech Examples&rpar;](https://topuzas.medium.com/carl-jungs-12-laws-rewritten-for-software-engineers-with-real-life-tech-examples-90b69a61db71?source=rss-8f0134a6aa62------2)
 - [From Data to Dialogue: Creating a Technical Design for Smart FAQs using LLMs, Pinecone &amp; Kafka](https://topuzas.medium.com/from-data-to-dialogue-creating-a-technical-design-for-smart-faqs-using-llms-pinecone-kafka-654f45143843?source=rss-8f0134a6aa62------2)
 - [A Comprehensive Guide to Building Web Applications with Blazor](https://topuzas.medium.com/a-comprehensive-guide-to-building-web-applications-with-blazor-5f568fce1e25?source=rss-8f0134a6aa62------2)
 - [Unlocking the Power of Azure Data Factory: A Comprehensive Guide](https://topuzas.medium.com/unlocking-the-power-of-azure-data-factory-a-comprehensive-guide-a58ebb0ab148?source=rss-8f0134a6aa62------2)
 - [Exploring the New Features of C# 12: A Detailed Guide with Examples](https://topuzas.medium.com/exploring-the-new-features-of-c-12-a-detailed-guide-with-examples-df8525fbc96c?source=rss-8f0134a6aa62------2)
 - [Choosing Azure Durable Functions Over Azure Service Bus: A Comprehensive Analysis](https://topuzas.medium.com/choosing-azure-durable-functions-over-azure-service-bus-a-comprehensive-analysis-43b2487319aa?source=rss-8f0134a6aa62------2)
 - [Software Craftsmanship: Crafting Excellence in the Digital Age](https://topuzas.medium.com/software-craftsmanship-crafting-excellence-in-the-digital-age-2cb064afcbbc?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship — Crafting Software in the Age of AI: Marrying Mastery with Machine…](https://topuzas.medium.com/software-craftsmanship-crafting-software-in-the-age-of-ai-marrying-mastery-with-machine-76070a9e4340?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship — Case Studies in Software Craftsmanship: A Dive into Mastery in Action](https://topuzas.medium.com/software-craftsmanship-case-studies-in-software-craftsmanship-a-dive-into-mastery-in-action-53a27b387859?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship — Personal Growth and Lifelong Learning: The Heartbeat of a Software…](https://topuzas.medium.com/software-craftsmanship-personal-growth-and-lifelong-learning-the-heartbeat-of-a-software-494f487a288b?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship — The Future of Software Craftsmanship: Navigating Emerging Trends and…](https://topuzas.medium.com/software-craftsmanship-the-future-of-software-craftsmanship-navigating-emerging-trends-and-b9ef422ff76c?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
