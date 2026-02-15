@@ -13,7 +13,7 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 
 - Frontend Engineering: Blazor, React, TypeScript, Component-driven Design, Rapid Prototyping
 - DevOps & Automation: Terraform (IaC), Docker, GitHub Actions, Azure DevOps
 
-🧠 I blog at [topuzas.medium.com](https://topuzas.medium.com) on architecture, clean code, and LLM integrations.
+🧠 I blog at [topuzas.medium.com](https://topuzas.medium.com).
 
 📬 Reach me at **alisuleymantopuz@gmail.com**
 
