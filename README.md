@@ -1,27 +1,17 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=alisuleymantopuz&label=Visitors&color=blue&style=flat)
 
 #   Ali Süleyman TOPUZ
-Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder
-📍 Based in Istanbul 🇹🇷 · Working Globally · 14+ Yrs in Tech
+Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 📍🇹🇷 · Working Globally
 
 ---
 
-💡 I design, build and deliver scalable cloud-native platforms with .NET, Azure, and modern frontend stacks.  
-🔁 Experienced in real-world implementations of **DDD, CQRS, Event-Driven Architecture**, and **API-first** systems.
-
-🛠️ Areas I work on:
-- Modernizing legacy systems for the cloud
-- Multi-tenant SaaS applications
-- Self-service APIs & external integrations
-- AI-powered internal tools using OpenAI, Pinecone, Cohere
-- Cross-system data transformation & reconciliation pipelines
-
 🚀 Tech Highlights:
-- **Backend:** `.NET 6/8`, Node.js, Python, Go  
-- **Frontend:** `React`, `AngularJS`, `Blazor`, `TypeScript`, SPA  
-- **Cloud:** Microsoft Azure, AWS  
-- **DevOps:** Azure DevOps, GitHub Actions, Docker, Terraform  
-- **AI/LLM:** Azure OpenAI, Cohere, Pinecone, LangChain  
+- Backend & Ecosystems: .NET, Node.js, Python, Go (Distributed Systems & Polyglot Architectures)
+- AI & LLM Orchestration: LangGraph (A2A), LangChain, OpenAI, Vector Databases, Prompt as a Service
+- Cloud & Infrastructure: Azure, AWS, Messaging Solutions (Kafka, Service Bus), Data Engineering
+- Real-time & Messaging: SignalR, Socket.io, WebSockets (High-concurrency Real-time Apps)
+- Frontend Engineering: Blazor, React, TypeScript, Component-driven Design, Rapid Prototyping
+- DevOps & Automation: Terraform (IaC), Docker, GitHub Actions, Azure DevOps
 
 🧠 I blog at [topuzas.medium.com](https://topuzas.medium.com) on architecture, clean code, and LLM integrations.
 
