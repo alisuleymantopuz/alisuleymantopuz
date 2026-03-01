@@ -27,15 +27,15 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://topuzas.medium.com/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-7f2a4888db14?source=rss-8f0134a6aa62------2)
-- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://topuzas.medium.com/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-7b27a176b2a1?source=rss-8f0134a6aa62------2)
-- [Microservices: When Architectural Freedom Becomes Operational Debt](https://topuzas.medium.com/microservices-when-architectural-freedom-becomes-operational-debt-5c19f7d4b9a3?source=rss-8f0134a6aa62------2)
-- [Carl Jung’s 12 Laws — Rewritten for Software Engineers &lpar;With Real-Life Tech Examples&rpar;](https://topuzas.medium.com/carl-jungs-12-laws-rewritten-for-software-engineers-with-real-life-tech-examples-90b69a61db71?source=rss-8f0134a6aa62------2)
-- [From Data to Dialogue: Creating a Technical Design for Smart FAQs using LLMs, Pinecone &amp; Kafka](https://topuzas.medium.com/from-data-to-dialogue-creating-a-technical-design-for-smart-faqs-using-llms-pinecone-kafka-654f45143843?source=rss-8f0134a6aa62------2)
-- [A Comprehensive Guide to Building Web Applications with Blazor](https://topuzas.medium.com/a-comprehensive-guide-to-building-web-applications-with-blazor-5f568fce1e25?source=rss-8f0134a6aa62------2)
-- [Unlocking the Power of Azure Data Factory: A Comprehensive Guide](https://topuzas.medium.com/unlocking-the-power-of-azure-data-factory-a-comprehensive-guide-a58ebb0ab148?source=rss-8f0134a6aa62------2)
-- [Exploring the New Features of C# 12: A Detailed Guide with Examples](https://topuzas.medium.com/exploring-the-new-features-of-c-12-a-detailed-guide-with-examples-df8525fbc96c?source=rss-8f0134a6aa62------2)
-- [Choosing Azure Durable Functions Over Azure Service Bus: A Comprehensive Analysis](https://topuzas.medium.com/choosing-azure-durable-functions-over-azure-service-bus-a-comprehensive-analysis-43b2487319aa?source=rss-8f0134a6aa62------2)
-- [Software Craftsmanship: Crafting Excellence in the Digital Age](https://topuzas.medium.com/software-craftsmanship-crafting-excellence-in-the-digital-age-2cb064afcbbc?source=rss-8f0134a6aa62------2)
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2)
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2)
+- [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2)
+- [Leading Through Technical Crisis: A Staff Engineer’s Guide to Architecture, Resilience, and…](https://topuzas.medium.com/leading-through-technical-crisis-a-staff-engineers-guide-to-architecture-resilience-and-83b982bdcbb9?source=rss-8f0134a6aa62------2)
+- [Accessibility-First Software Engineering: Building Inclusive Systems from the Ground Up](https://topuzas.medium.com/accessibility-first-software-engineering-building-inclusive-systems-from-the-ground-up-04072bb547c1?source=rss-8f0134a6aa62------2)
+- [Vector Search and Queryable Encryption in .NET: Engineering Secure AI Systems at Scale](https://topuzas.medium.com/vector-search-and-queryable-encryption-in-net-engineering-secure-ai-systems-at-scale-b30dea8f8551?source=rss-8f0134a6aa62------2)
+- [Semantic Kernel and AI Agent Architecture: Orchestrating Enterprise LLMs in .NET 9](https://topuzas.medium.com/semantic-kernel-and-ai-agent-architecture-orchestrating-enterprise-llms-in-net-9-7f4178a3226a?source=rss-8f0134a6aa62------2)
+- [Leadership Through Technical Crisis Management: A Systems-Based Framework for Engineering Leaders](https://topuzas.medium.com/leadership-through-technical-crisis-management-a-systems-based-framework-for-engineering-leaders-4a4eaf2db4fa?source=rss-8f0134a6aa62------2)
+- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://topuzas.medium.com/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-5e4ea8301362?source=rss-8f0134a6aa62------2)
+- [Advanced LangGraph Orchestration: Enterprise-Ready AI Workflow Management](https://topuzas.medium.com/advanced-langgraph-orchestration-enterprise-ready-ai-workflow-management-54d0e71133c2?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
