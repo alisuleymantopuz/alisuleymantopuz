@@ -27,15 +27,18 @@ Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 
 #### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2)
+- [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2)
+- [Agentic Architectures — Article 2: Advanced Coordination and Reasoning Patterns](https://topuzas.medium.com/agentic-architectures-article-1-advanced-coordination-and-reasoning-patterns-2beaa81ce6c3?source=rss-8f0134a6aa62------2)
+- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2)
+- [2026 Agentic Shift:
+Redesigning Distributed Systems
+for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-distributed-systems-for-autonomous-ai-1cbd54f448ef?source=rss-8f0134a6aa62------2)
+- [Architecting Durable Agents
+for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2)
 - [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2)
 - [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2)
 - [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2)
 - [Leading Through Technical Crisis: A Staff Engineer’s Guide to Architecture, Resilience, and…](https://topuzas.medium.com/leading-through-technical-crisis-a-staff-engineers-guide-to-architecture-resilience-and-83b982bdcbb9?source=rss-8f0134a6aa62------2)
-- [Accessibility-First Software Engineering: Building Inclusive Systems from the Ground Up](https://topuzas.medium.com/accessibility-first-software-engineering-building-inclusive-systems-from-the-ground-up-04072bb547c1?source=rss-8f0134a6aa62------2)
-- [Vector Search and Queryable Encryption in .NET: Engineering Secure AI Systems at Scale](https://topuzas.medium.com/vector-search-and-queryable-encryption-in-net-engineering-secure-ai-systems-at-scale-b30dea8f8551?source=rss-8f0134a6aa62------2)
-- [Semantic Kernel and AI Agent Architecture: Orchestrating Enterprise LLMs in .NET 9](https://topuzas.medium.com/semantic-kernel-and-ai-agent-architecture-orchestrating-enterprise-llms-in-net-9-7f4178a3226a?source=rss-8f0134a6aa62------2)
-- [Leadership Through Technical Crisis Management: A Systems-Based Framework for Engineering Leaders](https://topuzas.medium.com/leadership-through-technical-crisis-management-a-systems-based-framework-for-engineering-leaders-4a4eaf2db4fa?source=rss-8f0134a6aa62------2)
-- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://topuzas.medium.com/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-5e4ea8301362?source=rss-8f0134a6aa62------2)
-- [Advanced LangGraph Orchestration: Enterprise-Ready AI Workflow Management](https://topuzas.medium.com/advanced-langgraph-orchestration-enterprise-ready-ai-workflow-management-54d0e71133c2?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
 
