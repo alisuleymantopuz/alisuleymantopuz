@@ -24,10 +24,12 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuleymantopuz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisuleymantopuz&theme=tokyonight" width="50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuleymantopuz&layout=compact&theme=tokyonight&hide=C%23,html,css,javascript,typescript&custom_title=Main%20Architecture%20Stack&langs_count=5" width="50%" /> 
 </p>
 
 ---
