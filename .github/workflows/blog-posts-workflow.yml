@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@topuzas
+          feed_list: "https://medium.com/feed/@topuzas"
           max_post_count: 100
           commit_message: "Medium blog posts updated!"
           committer_username: "ali-suleyman-medium-bot"
