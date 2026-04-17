@@ -1,26 +1,38 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=alisuleymantopuz&label=Visitors&color=blue&style=flat)
 
-#   Ali Süleyman TOPUZ
-Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder 📍· Working Globally
+# Ali Süleyman TOPUZ
+### Solutions Architect | Software Architect | Cloud-Native Engineer | SaaS Builder
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Istanbul,%20Türkiye-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Architect-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_Distributed_Systems_%26_Product_Development-green?style=flat-square" />
+</p>
 
 ---
 
-🚀 Tech Highlights:
-- Backend & Ecosystems: .NET, Node.js, Python, Go (Distributed Systems & Polyglot Architectures)
-- AI & LLM Orchestration: LangGraph (A2A), LangChain, OpenAI, Vector Databases, Prompt as a Service
-- Cloud & Infrastructure: Azure, AWS, Messaging Solutions (Kafka, Service Bus), Data Engineering
-- Real-time & Messaging: SignalR, Socket.io, WebSockets (High-concurrency Real-time Apps)
-- Frontend Engineering: Blazor, React, TypeScript, Component-driven Design, Rapid Prototyping
-- DevOps & Automation: Terraform (IaC), Docker, GitHub Actions, Azure DevOps
+## 🚀 Tech Highlights
 
-📬 Reach me at **alisuleymantopuz@gmail.com**
+I specialize in designing and implementing complex, high-scale digital ecosystems. My core expertise lies at the intersection of **Distributed Systems** and **Agentic AI**.
 
-#### Connect
+* **Backend & Ecosystems:** .NET, Node.js, Python, Go (Distributed Systems & Polyglot Architectures)
+* **AI & LLM Orchestration:** LangGraph (A2A), LangChain, OpenAI, Vector Databases, Prompt as a Service
+* **Cloud & Infrastructure:** Azure, AWS, Messaging Solutions (Kafka, Service Bus), Data Engineering
+* **Real-time & Messaging:** SignalR, Socket.io, WebSockets (High-concurrency Real-time Apps)
+* **Frontend Engineering:** Blazor, React, TypeScript, Component-driven Design, Rapid Prototyping
+* **DevOps & Automation:** Terraform (IaC), Docker, GitHub Actions, Azure DevOps
 
-<a href="https://github.com/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" /></a> &nbsp; <a href="https://www.linkedin.com/in/alisuleymantopuz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" /></a> &nbsp; <a href="https://medium.com/@topuzas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32px" /></a> &nbsp; <a href="mailto:alisuleymantopuz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" /></a>
+---
 
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisuleymantopuz&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuleymantopuz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="50%" />
+</p>
 
-#### Latest blog posts
+---
+
+#### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2)
@@ -37,4 +49,3 @@ for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for
 - [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2)
 - [Leading Through Technical Crisis: A Staff Engineer’s Guide to Architecture, Resilience, and…](https://topuzas.medium.com/leading-through-technical-crisis-a-staff-engineers-guide-to-architecture-resilience-and-83b982bdcbb9?source=rss-8f0134a6aa62------2)
 <!-- BLOG-POST-LIST:END -->
-
