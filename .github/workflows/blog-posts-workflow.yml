@@ -1,7 +1,7 @@
-name: Latest blog post workflow
+name: Medium - Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -9,11 +9,13 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 100
-          commit_message: "Blog post update!"
-          committer_username: "blog-post-bot"
-          committer_email: "noreply@bot.co"
-          feed_list: "https://medium.com/feed/@topuzas"
+          feed_list: "https://medium.com/feed/@topuzas,https://medium.com/feed/@topuzas/tagged/agentic-ai,https://medium.com/feed/@topuzas/tagged/llmops,https://medium.com/feed/@topuzas/tagged/langgraph,https://medium.com/feed/@topuzas/tagged/ai-agent-development,https://medium.com/feed/@topuzas/tagged/dotnet"
+          max_post_count: 25
+          commit_message: "Medium blog posts updated!"
+          committer_username: "ali-suleyman-medium-bot"
+          committer_email: "alisuleymantopuz@gmail.com"
+          template: "$newline- [$title]($url) _($date)_"
+          date_format: "mmm d, yyyy"
