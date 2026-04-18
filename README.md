@@ -37,17 +37,16 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2)
-- [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2)
-- [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2)
-- [Agentic Architectures — Article 2: Advanced Coordination and Reasoning Patterns](https://topuzas.medium.com/agentic-architectures-article-1-advanced-coordination-and-reasoning-patterns-2beaa81ce6c3?source=rss-8f0134a6aa62------2)
-- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2)
+- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2) _(Apr 11, 2026)_
+- [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
+- [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
+- [Agentic Architectures — Article 2: Advanced Coordination and Reasoning Patterns](https://topuzas.medium.com/agentic-architectures-article-1-advanced-coordination-and-reasoning-patterns-2beaa81ce6c3?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_
+- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_
 - [2026 Agentic Shift:
 Redesigning Distributed Systems
-for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-distributed-systems-for-autonomous-ai-1cbd54f448ef?source=rss-8f0134a6aa62------2)
+for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-distributed-systems-for-autonomous-ai-1cbd54f448ef?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
 - [Architecting Durable Agents
-for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2)
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2)
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2)
-- [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2)
-<!-- BLOG-POST-LIST:END -->
+for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2) _(Feb 23, 2026)_
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2) _(Feb 22, 2026)_
+- [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2) _(Feb 22, 2026)_<!-- BLOG-POST-LIST:END -->
