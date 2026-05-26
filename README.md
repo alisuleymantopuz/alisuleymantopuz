@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_
 - [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2) _(Apr 11, 2026)_
 - [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
 - [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
@@ -48,5 +49,4 @@ for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-dis
 - [Architecting Durable Agents
 for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
 - [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2) _(Feb 23, 2026)_
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2) _(Feb 22, 2026)_
-- [AI-Powered Code Generation and Testing in .NET:](https://topuzas.medium.com/ai-powered-code-generation-and-testing-in-net-b86669fd7f98?source=rss-8f0134a6aa62------2) _(Feb 22, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-b9e1781a8373?source=rss-8f0134a6aa62------2) _(Feb 22, 2026)_<!-- BLOG-POST-LIST:END -->
