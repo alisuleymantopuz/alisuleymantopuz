@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 7: Agent Memory Architectures](https://topuzas.medium.com/agentic-architectures-article-7-agent-memory-architectures-9528f65ebc97?source=rss-8f0134a6aa62------2) _(Jun 20, 2026)_
 - [Agentic Architectures — Article 6: Multi-Agent Orchestration Patterns](https://topuzas.medium.com/agentic-architectures-article-6-multi-agent-orchestration-patterns-a0dc7ff1211b?source=rss-8f0134a6aa62------2) _(Jun 8, 2026)_
 - [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_
 - [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2) _(Apr 11, 2026)_
@@ -48,5 +49,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 Redesigning Distributed Systems
 for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-distributed-systems-for-autonomous-ai-1cbd54f448ef?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
 - [Architecting Durable Agents
-for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://topuzas.medium.com/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-0ac1712525dd?source=rss-8f0134a6aa62------2) _(Feb 23, 2026)_<!-- BLOG-POST-LIST:END -->
+for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_<!-- BLOG-POST-LIST:END -->
