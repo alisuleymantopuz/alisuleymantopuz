@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Reading Agentic Engineering Glossaries. Here’s an Actual Decision Framework](https://topuzas.medium.com/stop-reading-agentic-engineering-glossaries-heres-an-actual-decision-framework-21338e3273ac?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
+- [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
 - [Agentic Architectures — Article 7: Agent Memory Architectures](https://topuzas.medium.com/agentic-architectures-article-7-agent-memory-architectures-9528f65ebc97?source=rss-8f0134a6aa62------2) _(Jun 20, 2026)_
 - [Agentic Architectures — Article 6: Multi-Agent Orchestration Patterns](https://topuzas.medium.com/agentic-architectures-article-6-multi-agent-orchestration-patterns-a0dc7ff1211b?source=rss-8f0134a6aa62------2) _(Jun 8, 2026)_
 - [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_
@@ -44,9 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
 - [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
 - [Agentic Architectures — Article 2: Advanced Coordination and Reasoning Patterns](https://topuzas.medium.com/agentic-architectures-article-1-advanced-coordination-and-reasoning-patterns-2beaa81ce6c3?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_
-- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_
-- [2026 Agentic Shift:
-Redesigning Distributed Systems
-for Autonomous AI](https://topuzas.medium.com/2026-agentic-shift-redesigning-distributed-systems-for-autonomous-ai-1cbd54f448ef?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_
-- [Architecting Durable Agents
-for Enterprise Scale](https://topuzas.medium.com/architecting-durable-agents-for-enterprise-scale-aa08884bcd1d?source=rss-8f0134a6aa62------2) _(Mar 8, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_<!-- BLOG-POST-LIST:END -->
