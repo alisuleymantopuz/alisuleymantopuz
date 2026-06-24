@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 8: Evaluation and Continuous Improvement Pipelines](https://topuzas.medium.com/agentic-architectures-article-8-evaluation-and-continuous-improvement-pipelines-eae8f8b28959?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
+- [Elsa 3.8 Preview: Secrets, State Machines, and a Security Hardening Pass](https://topuzas.medium.com/elsa-3-8-preview-secrets-state-machines-and-a-security-hardening-pass-37891b403550?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
 - [Stop Reading Agentic Engineering Glossaries. Here’s an Actual Decision Framework](https://topuzas.medium.com/stop-reading-agentic-engineering-glossaries-heres-an-actual-decision-framework-21338e3273ac?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
 - [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
 - [Agentic Architectures — Article 7: Agent Memory Architectures](https://topuzas.medium.com/agentic-architectures-article-7-agent-memory-architectures-9528f65ebc97?source=rss-8f0134a6aa62------2) _(Jun 20, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_
 - [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2) _(Apr 11, 2026)_
 - [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
-- [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_
-- [Agentic Architectures — Article 2: Advanced Coordination and Reasoning Patterns](https://topuzas.medium.com/agentic-architectures-article-1-advanced-coordination-and-reasoning-patterns-2beaa81ce6c3?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_
-- [Agentic Architectures — Article 1: The Agentic AI Maturity Model](https://topuzas.medium.com/agentic-architectures-article-1-the-agentic-ai-maturity-model-092f009cf2c0?source=rss-8f0134a6aa62------2) _(Mar 29, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Agentic Architectures — Article 3: AgentOps](https://topuzas.medium.com/agentic-architectures-article-3-agentops-861f3ca9eb6f?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_<!-- BLOG-POST-LIST:END -->
