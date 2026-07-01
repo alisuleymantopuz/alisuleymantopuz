@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 9: Agent Security and Red-Teaming](https://topuzas.medium.com/agentic-architectures-article-9-agent-security-and-red-teaming-043ec6432301?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_
+- [Workflow Design Is a Thinking Discipline](https://topuzas.medium.com/workflow-design-is-a-thinking-discipline-1a6b44af5949?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_
 - [You Are the Context. Until You’re Not](https://topuzas.medium.com/you-are-the-context-until-youre-not-fd3219d18ad9?source=rss-8f0134a6aa62------2) _(Jun 28, 2026)_
 - [Agentic Architectures — Article 8: Evaluation and Continuous Improvement Pipelines](https://topuzas.medium.com/agentic-architectures-article-8-evaluation-and-continuous-improvement-pipelines-eae8f8b28959?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
 - [Elsa 3.8 Preview: Secrets, State Machines, and a Security Hardening Pass](https://topuzas.medium.com/elsa-3-8-preview-secrets-state-machines-and-a-security-hardening-pass-37891b403550?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
 - [Agentic Architectures — Article 7: Agent Memory Architectures](https://topuzas.medium.com/agentic-architectures-article-7-agent-memory-architectures-9528f65ebc97?source=rss-8f0134a6aa62------2) _(Jun 20, 2026)_
 - [Agentic Architectures — Article 6: Multi-Agent Orchestration Patterns](https://topuzas.medium.com/agentic-architectures-article-6-multi-agent-orchestration-patterns-a0dc7ff1211b?source=rss-8f0134a6aa62------2) _(Jun 8, 2026)_
-- [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://topuzas.medium.com/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-4bd494f3a2de?source=rss-8f0134a6aa62------2) _(Apr 11, 2026)_
-- [Agentic Architectures — Article 4: Agentic Protocols &lpar;MCP and A2A&rpar;](https://topuzas.medium.com/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-ca10832365e8?source=rss-8f0134a6aa62------2) _(Mar 30, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer](https://topuzas.medium.com/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-731414a3f4ed?source=rss-8f0134a6aa62------2) _(May 25, 2026)_<!-- BLOG-POST-LIST:END -->
