@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_
 - [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
 - [Event-Driven Systems in .NET, Python, and Go: A Practitioner’s Comparison](https://topuzas.medium.com/event-driven-systems-in-net-python-and-go-a-practitioners-comparison-8d28e6a589a0?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
 - [Agentic Architectures — Article 9: Agent Security and Red-Teaming](https://topuzas.medium.com/agentic-architectures-article-9-agent-security-and-red-teaming-043ec6432301?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agentic Architectures — Article 8: Evaluation and Continuous Improvement Pipelines](https://topuzas.medium.com/agentic-architectures-article-8-evaluation-and-continuous-improvement-pipelines-eae8f8b28959?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
 - [Elsa 3.8 Preview: Secrets, State Machines, and a Security Hardening Pass](https://topuzas.medium.com/elsa-3-8-preview-secrets-state-machines-and-a-security-hardening-pass-37891b403550?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
 - [Stop Reading Agentic Engineering Glossaries. Here’s an Actual Decision Framework](https://topuzas.medium.com/stop-reading-agentic-engineering-glossaries-heres-an-actual-decision-framework-21338e3273ac?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
-- [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
-- [Agentic Architectures — Article 7: Agent Memory Architectures](https://topuzas.medium.com/agentic-architectures-article-7-agent-memory-architectures-9528f65ebc97?source=rss-8f0134a6aa62------2) _(Jun 20, 2026)_<!-- BLOG-POST-LIST:END -->
+- [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_<!-- BLOG-POST-LIST:END -->
