@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30 Prompt Techniques I Actually Use With Claude &lpar;Not a Copy-Paste Listicle&rpar;](https://topuzas.medium.com/30-prompt-techniques-i-actually-use-with-claude-not-a-copy-paste-listicle-624149b7bfef?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
+- [7 AI Engineering Patterns Every .NET Developer Needs &lpar;With Self-Hosted Examples&rpar;](https://topuzas.medium.com/7-ai-engineering-patterns-every-net-developer-needs-with-self-hosted-examples-c2ec3013e088?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
 - [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_
 - [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
 - [Event-Driven Systems in .NET, Python, and Go: A Practitioner’s Comparison](https://topuzas.medium.com/event-driven-systems-in-net-python-and-go-a-practitioners-comparison-8d28e6a589a0?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Workflow Design Is a Thinking Discipline](https://topuzas.medium.com/workflow-design-is-a-thinking-discipline-1a6b44af5949?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_
 - [You Are the Context. Until You’re Not](https://topuzas.medium.com/you-are-the-context-until-youre-not-fd3219d18ad9?source=rss-8f0134a6aa62------2) _(Jun 28, 2026)_
 - [Agentic Architectures — Article 8: Evaluation and Continuous Improvement Pipelines](https://topuzas.medium.com/agentic-architectures-article-8-evaluation-and-continuous-improvement-pipelines-eae8f8b28959?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
-- [Elsa 3.8 Preview: Secrets, State Machines, and a Security Hardening Pass](https://topuzas.medium.com/elsa-3-8-preview-secrets-state-machines-and-a-security-hardening-pass-37891b403550?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_
-- [Stop Reading Agentic Engineering Glossaries. Here’s an Actual Decision Framework](https://topuzas.medium.com/stop-reading-agentic-engineering-glossaries-heres-an-actual-decision-framework-21338e3273ac?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_
-- [The Algorithm Taught Us to Punish](https://topuzas.medium.com/the-algorithm-taught-us-to-punish-fc20011958f5?source=rss-8f0134a6aa62------2) _(Jun 22, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Elsa 3.8 Preview: Secrets, State Machines, and a Security Hardening Pass](https://topuzas.medium.com/elsa-3-8-preview-secrets-state-machines-and-a-security-hardening-pass-37891b403550?source=rss-8f0134a6aa62------2) _(Jun 23, 2026)_<!-- BLOG-POST-LIST:END -->
