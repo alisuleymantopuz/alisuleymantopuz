@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 13: Human-in-the-Loop Patterns](https://topuzas.medium.com/agentic-architectures-article-13-human-in-the-loop-patterns-c9f5fabd2c2d?source=rss-8f0134a6aa62------2) _(Jul 28, 2026)_
 - [The LangGraph Tutorial I Wish Someone Had Given Me Before My Graph Ran Forever](https://topuzas.medium.com/the-langgraph-tutorial-i-wish-someone-had-given-me-before-my-graph-ran-forever-bda5a80fe4ee?source=rss-8f0134a6aa62------2) _(Jul 19, 2026)_
 - [Agentic Architectures — Article 12: Are We Ready For An Agent-Native Memory System?](https://topuzas.medium.com/agentic-architectures-article-12-are-we-ready-for-an-agent-native-memory-system-8969a47a89be?source=rss-8f0134a6aa62------2) _(Jul 19, 2026)_
 - [Agentic Architectures — Article 11: Agent Deployment Patterns](https://topuzas.medium.com/agentic-architectures-article-11-agent-deployment-patterns-f8413ea44bad?source=rss-8f0134a6aa62------2) _(Jul 17, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_
 - [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
 - [Event-Driven Systems in .NET, Python, and Go: A Practitioner’s Comparison](https://topuzas.medium.com/event-driven-systems-in-net-python-and-go-a-practitioners-comparison-8d28e6a589a0?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
-- [Agentic Architectures — Article 9: Agent Security and Red-Teaming](https://topuzas.medium.com/agentic-architectures-article-9-agent-security-and-red-teaming-043ec6432301?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_
-- [Workflow Design Is a Thinking Discipline](https://topuzas.medium.com/workflow-design-is-a-thinking-discipline-1a6b44af5949?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Agentic Architectures — Article 9: Agent Security and Red-Teaming](https://topuzas.medium.com/agentic-architectures-article-9-agent-security-and-red-teaming-043ec6432301?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_<!-- BLOG-POST-LIST:END -->
