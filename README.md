@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Many Tools Should Your MCP Server Actually Have?](https://topuzas.medium.com/how-many-tools-should-your-mcp-server-actually-have-27ff24964af2?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
+- [Agentic Architectures — Article 14: Beyond Prompts — Engineering Goal-Directed Agent Loops](https://topuzas.medium.com/agentic-architectures-article-14-beyond-prompts-engineering-goal-directed-agent-loops-6dfe39e0e82d?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
 - [Agentic Architectures — Article 13: Human-in-the-Loop Patterns](https://topuzas.medium.com/agentic-architectures-article-13-human-in-the-loop-patterns-c9f5fabd2c2d?source=rss-8f0134a6aa62------2) _(Jul 28, 2026)_
 - [The LangGraph Tutorial I Wish Someone Had Given Me Before My Graph Ran Forever](https://topuzas.medium.com/the-langgraph-tutorial-i-wish-someone-had-given-me-before-my-graph-ran-forever-bda5a80fe4ee?source=rss-8f0134a6aa62------2) _(Jul 19, 2026)_
 - [Agentic Architectures — Article 12: Are We Ready For An Agent-Native Memory System?](https://topuzas.medium.com/agentic-architectures-article-12-are-we-ready-for-an-agent-native-memory-system-8969a47a89be?source=rss-8f0134a6aa62------2) _(Jul 19, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [30 Prompt Techniques I Actually Use With Claude &lpar;Not a Copy-Paste Listicle&rpar;](https://topuzas.medium.com/30-prompt-techniques-i-actually-use-with-claude-not-a-copy-paste-listicle-624149b7bfef?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
 - [7 AI Engineering Patterns Every .NET Developer Needs &lpar;With Self-Hosted Examples&rpar;](https://topuzas.medium.com/7-ai-engineering-patterns-every-net-developer-needs-with-self-hosted-examples-c2ec3013e088?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
 - [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_
-- [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
-- [Event-Driven Systems in .NET, Python, and Go: A Practitioner’s Comparison](https://topuzas.medium.com/event-driven-systems-in-net-python-and-go-a-practitioners-comparison-8d28e6a589a0?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_
-- [Agentic Architectures — Article 9: Agent Security and Red-Teaming](https://topuzas.medium.com/agentic-architectures-article-9-agent-security-and-red-teaming-043ec6432301?source=rss-8f0134a6aa62------2) _(Jul 1, 2026)_<!-- BLOG-POST-LIST:END -->
+- [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_<!-- BLOG-POST-LIST:END -->
