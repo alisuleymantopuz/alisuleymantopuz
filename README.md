@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Architectures — Article 15: The Maturity Model Revisited](https://topuzas.medium.com/agentic-architectures-article-15-the-maturity-model-revisited-f4d1cdcaf736?source=rss-8f0134a6aa62------2) _(Aug 2, 2026)_
 - [How Many Tools Should Your MCP Server Actually Have?](https://topuzas.medium.com/how-many-tools-should-your-mcp-server-actually-have-27ff24964af2?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
 - [Agentic Architectures — Article 14: Beyond Prompts — Engineering Goal-Directed Agent Loops](https://topuzas.medium.com/agentic-architectures-article-14-beyond-prompts-engineering-goal-directed-agent-loops-6dfe39e0e82d?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
 - [Agentic Architectures — Article 13: Human-in-the-Loop Patterns](https://topuzas.medium.com/agentic-architectures-article-13-human-in-the-loop-patterns-c9f5fabd2c2d?source=rss-8f0134a6aa62------2) _(Jul 28, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agentic Architectures — Article 11: Agent Deployment Patterns](https://topuzas.medium.com/agentic-architectures-article-11-agent-deployment-patterns-f8413ea44bad?source=rss-8f0134a6aa62------2) _(Jul 17, 2026)_
 - [30 Prompt Techniques I Actually Use With Claude &lpar;Not a Copy-Paste Listicle&rpar;](https://topuzas.medium.com/30-prompt-techniques-i-actually-use-with-claude-not-a-copy-paste-listicle-624149b7bfef?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
 - [7 AI Engineering Patterns Every .NET Developer Needs &lpar;With Self-Hosted Examples&rpar;](https://topuzas.medium.com/7-ai-engineering-patterns-every-net-developer-needs-with-self-hosted-examples-c2ec3013e088?source=rss-8f0134a6aa62------2) _(Jul 11, 2026)_
-- [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_
-- [The Verification Layer Every AI Agent Needs &lpar;and How I Built One Twice&rpar;](https://topuzas.medium.com/the-verification-layer-every-ai-agent-needs-and-how-i-built-one-twice-f60dfb2c1164?source=rss-8f0134a6aa62------2) _(Jul 6, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Agentic Architectures — Article 10: Cost Optimization at Scale](https://topuzas.medium.com/agentic-architectures-article-10-cost-optimization-at-scale-e00b092ed154?source=rss-8f0134a6aa62------2) _(Jul 8, 2026)_<!-- BLOG-POST-LIST:END -->
