@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Codebase Memory for AI Agents: A LangGraph Pipeline That Actually Stays Accurate](https://topuzas.medium.com/codebase-memory-for-ai-agents-a-langgraph-pipeline-that-actually-stays-accurate-d923de93015e?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_
+- [I Tried Microsoft Agent Framework’s New Declarative Workflows &lpar;1.0&rpar;](https://topuzas.medium.com/i-tried-microsoft-agent-frameworks-new-declarative-workflows-1-0-36565af9046c?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_
 - [AI Agent Attack Surface: Lessons from a Week of Sandbox Escapes and Eval Breaches](https://topuzas.medium.com/ai-agent-attack-surface-lessons-from-a-week-of-sandbox-escapes-and-eval-breaches-d22e665dacef?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_
 - [The Verification Gap: Why “Done” Is Not a Fact About Your Codebase](https://topuzas.medium.com/the-verification-gap-why-done-is-not-a-fact-about-your-codebase-72f0c8302b9c?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_
 - [From Prompt Engineering to Harness Engineering: How .NET Teams Should Build Around Claude Code](https://topuzas.medium.com/from-prompt-engineering-to-harness-engineering-how-net-teams-should-build-around-claude-code-f2bd081d3517?source=rss-8f0134a6aa62------2) _(Aug 7, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Node.js Streams in Production: The Parts Most Tutorials Skip](https://topuzas.medium.com/node-js-streams-in-production-the-parts-most-tutorials-skip-185bd1beb2b0?source=rss-8f0134a6aa62------2) _(Aug 5, 2026)_
 - [Three Articles, One Diagnosis: Your AI Agent Doesn’t Have a Model Problem, It Has a Coordination…](https://topuzas.medium.com/three-articles-one-diagnosis-your-ai-agent-doesnt-have-a-model-problem-it-has-a-coordination-8217cb2feb22?source=rss-8f0134a6aa62------2) _(Aug 5, 2026)_
 - [Agentic Architectures — Article 15: The Maturity Model Revisited](https://topuzas.medium.com/agentic-architectures-article-15-the-maturity-model-revisited-f4d1cdcaf736?source=rss-8f0134a6aa62------2) _(Aug 2, 2026)_
-- [How Many Tools Should Your MCP Server Actually Have?](https://topuzas.medium.com/how-many-tools-should-your-mcp-server-actually-have-27ff24964af2?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
-- [Agentic Architectures — Article 14: Beyond Prompts — Engineering Goal-Directed Agent Loops](https://topuzas.medium.com/agentic-architectures-article-14-beyond-prompts-engineering-goal-directed-agent-loops-6dfe39e0e82d?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_
-- [Agentic Architectures — Article 13: Human-in-the-Loop Patterns](https://topuzas.medium.com/agentic-architectures-article-13-human-in-the-loop-patterns-c9f5fabd2c2d?source=rss-8f0134a6aa62------2) _(Jul 28, 2026)_<!-- BLOG-POST-LIST:END -->
+- [How Many Tools Should Your MCP Server Actually Have?](https://topuzas.medium.com/how-many-tools-should-your-mcp-server-actually-have-27ff24964af2?source=rss-8f0134a6aa62------2) _(Aug 1, 2026)_<!-- BLOG-POST-LIST:END -->
