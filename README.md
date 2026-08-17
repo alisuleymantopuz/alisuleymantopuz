@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Read the OpenAI and Anthropic Eval-Escape Reports, Then Went and Checked My Own Agent’s Sandbox](https://topuzas.medium.com/i-read-the-openai-and-anthropic-eval-escape-reports-then-went-and-checked-my-own-agents-sandbox-6f1e3207d015?source=rss-8f0134a6aa62------2) _(Aug 16, 2026)_
+- [Four Tools I Bolted Onto My Claude Agent &lpar;and Why Each One Earned Its Place&rpar;](https://topuzas.medium.com/four-tools-i-bolted-onto-my-claude-agent-and-why-each-one-earned-its-place-2c5cfc2bc959?source=rss-8f0134a6aa62------2) _(Aug 16, 2026)_
 - [Enterprise AI Patterns for .NET Developers: 12 Patterns I Wish I Had on Day One](https://topuzas.medium.com/enterprise-ai-patterns-for-net-developers-12-patterns-i-wish-i-had-on-day-one-4a59c6b0c9ed?source=rss-8f0134a6aa62------2) _(Aug 11, 2026)_
 - [I Learned Eval Environments Aren’t Fort Knox.](https://topuzas.medium.com/i-learned-eval-environments-arent-fort-knox-34740766ce6f?source=rss-8f0134a6aa62------2) _(Aug 11, 2026)_
 - [Codebase Memory for AI Agents: A LangGraph Pipeline That Actually Stays Accurate](https://topuzas.medium.com/codebase-memory-for-ai-agents-a-langgraph-pipeline-that-actually-stays-accurate-d923de93015e?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [AI Agent Attack Surface: Lessons from a Week of Sandbox Escapes and Eval Breaches](https://topuzas.medium.com/ai-agent-attack-surface-lessons-from-a-week-of-sandbox-escapes-and-eval-breaches-d22e665dacef?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_
 - [The Verification Gap: Why “Done” Is Not a Fact About Your Codebase](https://topuzas.medium.com/the-verification-gap-why-done-is-not-a-fact-about-your-codebase-72f0c8302b9c?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_
 - [From Prompt Engineering to Harness Engineering: How .NET Teams Should Build Around Claude Code](https://topuzas.medium.com/from-prompt-engineering-to-harness-engineering-how-net-teams-should-build-around-claude-code-f2bd081d3517?source=rss-8f0134a6aa62------2) _(Aug 7, 2026)_
-- [We Broke Webhooks Three Times Before Getting Durable Delivery Right &lpar;ASP.NET Core&rpar;](https://topuzas.medium.com/we-broke-webhooks-three-times-before-getting-durable-delivery-right-asp-net-core-447462a98c7a?source=rss-8f0134a6aa62------2) _(Aug 7, 2026)_
-- [Node.js Streams in Production: The Parts Most Tutorials Skip](https://topuzas.medium.com/node-js-streams-in-production-the-parts-most-tutorials-skip-185bd1beb2b0?source=rss-8f0134a6aa62------2) _(Aug 5, 2026)_
-- [Three Articles, One Diagnosis: Your AI Agent Doesn’t Have a Model Problem, It Has a Coordination…](https://topuzas.medium.com/three-articles-one-diagnosis-your-ai-agent-doesnt-have-a-model-problem-it-has-a-coordination-8217cb2feb22?source=rss-8f0134a6aa62------2) _(Aug 5, 2026)_<!-- BLOG-POST-LIST:END -->
+- [We Broke Webhooks Three Times Before Getting Durable Delivery Right &lpar;ASP.NET Core&rpar;](https://topuzas.medium.com/we-broke-webhooks-three-times-before-getting-durable-delivery-right-asp-net-core-447462a98c7a?source=rss-8f0134a6aa62------2) _(Aug 7, 2026)_<!-- BLOG-POST-LIST:END -->
