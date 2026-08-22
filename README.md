@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [70+ System Design Terms for Beginners](https://topuzas.medium.com/70-system-design-terms-for-beginners-cbd2370779c8?source=rss-8f0134a6aa62------2) _(Aug 21, 2026)_
+- [Every Agent Platform Needs a Front Door: A Production YARP Gateway with Runtime Config](https://topuzas.medium.com/every-agent-platform-needs-a-front-door-a-production-yarp-gateway-with-runtime-config-c953f08d4a4b?source=rss-8f0134a6aa62------2) _(Aug 21, 2026)_
 - [I Built DPoP in .NET 10 by Hand. Then I Found the Package That Makes It Unnecessary.](https://topuzas.medium.com/i-built-dpop-in-net-10-by-hand-then-i-found-the-package-that-makes-it-unnecessary-41ab7bff09b7?source=rss-8f0134a6aa62------2) _(Aug 19, 2026)_
 - [I Kept Hitting GPU Out-of-Memory Errors at 100K Tokens: Here’s What Was Actually Eating the Memory](https://topuzas.medium.com/i-kept-hitting-gpu-out-of-memory-errors-at-100k-tokens-heres-what-was-actually-eating-the-memory-d7a61e0ad7cc?source=rss-8f0134a6aa62------2) _(Aug 19, 2026)_
 - [I Read the OpenAI and Anthropic Eval-Escape Reports, Then Went and Checked My Own Agent’s Sandbox](https://topuzas.medium.com/i-read-the-openai-and-anthropic-eval-escape-reports-then-went-and-checked-my-own-agents-sandbox-6f1e3207d015?source=rss-8f0134a6aa62------2) _(Aug 16, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Enterprise AI Patterns for .NET Developers: 12 Patterns I Wish I Had on Day One](https://topuzas.medium.com/enterprise-ai-patterns-for-net-developers-12-patterns-i-wish-i-had-on-day-one-4a59c6b0c9ed?source=rss-8f0134a6aa62------2) _(Aug 11, 2026)_
 - [I Learned Eval Environments Aren’t Fort Knox.](https://topuzas.medium.com/i-learned-eval-environments-arent-fort-knox-34740766ce6f?source=rss-8f0134a6aa62------2) _(Aug 11, 2026)_
 - [Codebase Memory for AI Agents: A LangGraph Pipeline That Actually Stays Accurate](https://topuzas.medium.com/codebase-memory-for-ai-agents-a-langgraph-pipeline-that-actually-stays-accurate-d923de93015e?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_
-- [I Tried Microsoft Agent Framework’s New Declarative Workflows &lpar;1.0&rpar;](https://topuzas.medium.com/i-tried-microsoft-agent-frameworks-new-declarative-workflows-1-0-36565af9046c?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_
-- [AI Agent Attack Surface: Lessons from a Week of Sandbox Escapes and Eval Breaches](https://topuzas.medium.com/ai-agent-attack-surface-lessons-from-a-week-of-sandbox-escapes-and-eval-breaches-d22e665dacef?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_
-- [The Verification Gap: Why “Done” Is Not a Fact About Your Codebase](https://topuzas.medium.com/the-verification-gap-why-done-is-not-a-fact-about-your-codebase-72f0c8302b9c?source=rss-8f0134a6aa62------2) _(Aug 9, 2026)_<!-- BLOG-POST-LIST:END -->
+- [I Tried Microsoft Agent Framework’s New Declarative Workflows &lpar;1.0&rpar;](https://topuzas.medium.com/i-tried-microsoft-agent-frameworks-new-declarative-workflows-1-0-36565af9046c?source=rss-8f0134a6aa62------2) _(Aug 10, 2026)_<!-- BLOG-POST-LIST:END -->
