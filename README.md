@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Tried to Verify “Self-Repairing AI Systems” by Actually Installing the Thing](https://topuzas.medium.com/i-tried-to-verify-self-repairing-ai-systems-by-actually-installing-the-thing-4c3aadb6d970?source=rss-8f0134a6aa62------2) _(Aug 28, 2026)_
+- [Harness, Loop, and Graph: What I Learned Building the Same AI Agent Three Different Ways](https://topuzas.medium.com/harness-loop-and-graph-what-i-learned-building-the-same-ai-agent-three-different-ways-9a2ee651a5bb?source=rss-8f0134a6aa62------2) _(Aug 28, 2026)_
 - [I Tried Building With WebMCP Before Gemini in Chrome Could Even Call It](https://topuzas.medium.com/i-tried-building-with-webmcp-before-gemini-in-chrome-could-even-call-it-16b0d93f42f1?source=rss-8f0134a6aa62------2) _(Aug 26, 2026)_
 - [I Spent Two Weeks Trying to Break CommandFlow, the “Pragmatic Alternative” to CQRS and MediatR](https://topuzas.medium.com/i-spent-two-weeks-trying-to-break-commandflow-the-pragmatic-alternative-to-cqrs-and-mediatr-656ae4e60eb0?source=rss-8f0134a6aa62------2) _(Aug 26, 2026)_
 - [Rippling Burned 40% of Its Engineering Budget on AI Tokens.](https://topuzas.medium.com/rippling-burned-40-of-its-engineering-budget-on-ai-tokens-77225571712d?source=rss-8f0134a6aa62------2) _(Aug 22, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [70+ System Design Terms for Beginners](https://topuzas.medium.com/70-system-design-terms-for-beginners-cbd2370779c8?source=rss-8f0134a6aa62------2) _(Aug 21, 2026)_
 - [Every Agent Platform Needs a Front Door: A Production YARP Gateway with Runtime Config](https://topuzas.medium.com/every-agent-platform-needs-a-front-door-a-production-yarp-gateway-with-runtime-config-c953f08d4a4b?source=rss-8f0134a6aa62------2) _(Aug 21, 2026)_
 - [I Built DPoP in .NET 10 by Hand. Then I Found the Package That Makes It Unnecessary.](https://topuzas.medium.com/i-built-dpop-in-net-10-by-hand-then-i-found-the-package-that-makes-it-unnecessary-41ab7bff09b7?source=rss-8f0134a6aa62------2) _(Aug 19, 2026)_
-- [I Kept Hitting GPU Out-of-Memory Errors at 100K Tokens: Here’s What Was Actually Eating the Memory](https://topuzas.medium.com/i-kept-hitting-gpu-out-of-memory-errors-at-100k-tokens-heres-what-was-actually-eating-the-memory-d7a61e0ad7cc?source=rss-8f0134a6aa62------2) _(Aug 19, 2026)_
-- [I Read the OpenAI and Anthropic Eval-Escape Reports, Then Went and Checked My Own Agent’s Sandbox](https://topuzas.medium.com/i-read-the-openai-and-anthropic-eval-escape-reports-then-went-and-checked-my-own-agents-sandbox-6f1e3207d015?source=rss-8f0134a6aa62------2) _(Aug 16, 2026)_
-- [Four Tools I Bolted Onto My Claude Agent &lpar;and Why Each One Earned Its Place&rpar;](https://topuzas.medium.com/four-tools-i-bolted-onto-my-claude-agent-and-why-each-one-earned-its-place-2c5cfc2bc959?source=rss-8f0134a6aa62------2) _(Aug 16, 2026)_<!-- BLOG-POST-LIST:END -->
+- [I Kept Hitting GPU Out-of-Memory Errors at 100K Tokens: Here’s What Was Actually Eating the Memory](https://topuzas.medium.com/i-kept-hitting-gpu-out-of-memory-errors-at-100k-tokens-heres-what-was-actually-eating-the-memory-d7a61e0ad7cc?source=rss-8f0134a6aa62------2) _(Aug 19, 2026)_<!-- BLOG-POST-LIST:END -->
