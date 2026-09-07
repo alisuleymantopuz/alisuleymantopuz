@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Real Cost Curve of Running Agents in Production, One Layer at a Time](https://topuzas.medium.com/the-real-cost-curve-of-running-agents-in-production-one-layer-at-a-time-837acf76ce72?source=rss-8f0134a6aa62------2) _(Sep 6, 2026)_
+- [An AI Agent “Attacked” a Gym in Australia. It Wasn’t Trying To.](https://topuzas.medium.com/an-ai-agent-attacked-a-gym-in-australia-it-wasnt-trying-to-db8bc5143674?source=rss-8f0134a6aa62------2) _(Sep 6, 2026)_
 - [What a Bad Week of AI Agent Headlines Actually Teaches About Oversight](https://topuzas.medium.com/what-a-bad-week-of-ai-agent-headlines-actually-teaches-about-oversight-0507f4328e2d?source=rss-8f0134a6aa62------2) _(Sep 4, 2026)_
 - [I Finally Put Claude Managed Agents’ August Update Through Its Paces, and It Fixes the Four Things…](https://topuzas.medium.com/i-finally-put-claude-managed-agents-august-update-through-its-paces-and-it-fixes-the-four-things-a129521ba7df?source=rss-8f0134a6aa62------2) _(Sep 4, 2026)_
 - [The Case Against Your Own Agent Stack: What Contrarians Get Right This Year](https://topuzas.medium.com/the-case-against-your-own-agent-stack-what-contrarians-get-right-this-year-26e2b5464622?source=rss-8f0134a6aa62------2) _(Sep 3, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [The Anatomy of an AI Coding Agent Sandbox Escape](https://topuzas.medium.com/the-anatomy-of-an-ai-coding-agent-sandbox-escape-b1eabd2046cb?source=rss-8f0134a6aa62------2) _(Sep 2, 2026)_
 - [Nobody Reads the Diff Anymore: How Senior Teams Are Actually Reviewing AI-Written Code](https://topuzas.medium.com/nobody-reads-the-diff-anymore-how-senior-teams-are-actually-reviewing-ai-written-code-21d47e755ae0?source=rss-8f0134a6aa62------2) _(Sep 2, 2026)_
 - [I Stopped Memorizing System Design Answers. Here’s What Actually Got Me Through Interviews in 2026](https://topuzas.medium.com/i-stopped-memorizing-system-design-answers-heres-what-actually-got-me-through-interviews-in-2026-08dac3fa49e9?source=rss-8f0134a6aa62------2) _(Aug 31, 2026)_
-- [I Actually Built All 18 Agentic AI Patterns. Here Is What The Listicles Don’t Tell You](https://topuzas.medium.com/i-actually-built-all-18-agentic-ai-patterns-here-is-what-the-listicles-dont-tell-you-b9d7b432b00f?source=rss-8f0134a6aa62------2) _(Aug 31, 2026)_
-- [ChatClient Middleware vs Agent Middleware in Microsoft Agent Framework: What I Learned After…](https://topuzas.medium.com/chatclient-middleware-vs-agent-middleware-in-microsoft-agent-framework-what-i-learned-after-4b6c4e44f41a?source=rss-8f0134a6aa62------2) _(Aug 30, 2026)_
-- [LongRunning MCP Tools .NET What Actually Happens When Your ToolCall Outlives the Client&#39;s Patience](https://topuzas.medium.com/longrunning-mcp-tools-net-what-actually-happens-when-your-toolcall-outlives-the-clients-patience-e396fdc08827?source=rss-8f0134a6aa62------2) _(Aug 30, 2026)_<!-- BLOG-POST-LIST:END -->
+- [I Actually Built All 18 Agentic AI Patterns. Here Is What The Listicles Don’t Tell You](https://topuzas.medium.com/i-actually-built-all-18-agentic-ai-patterns-here-is-what-the-listicles-dont-tell-you-b9d7b432b00f?source=rss-8f0134a6aa62------2) _(Aug 31, 2026)_<!-- BLOG-POST-LIST:END -->
