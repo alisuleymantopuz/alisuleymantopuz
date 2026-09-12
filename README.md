@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside a Real Multi-Agent Claude Code Setup: Two Leads, 9 Projects, 40 Prompts a Day](https://topuzas.medium.com/inside-a-real-multi-agent-claude-code-setup-two-leads-9-projects-40-prompts-a-day-77fe16868297?source=rss-8f0134a6aa62------2) _(Sep 11, 2026)_
+- [Your .NET Agent Is in Production, Your Engineering Discipline Isn’t.](https://topuzas.medium.com/your-net-agent-is-in-production-your-engineering-discipline-isnt-61e3e05181e3?source=rss-8f0134a6aa62------2) _(Sep 11, 2026)_
 - [I Got Claude Code to Talk to GPT, Grok, and a Local Ollama Model. Here’s What Actually Held Up](https://topuzas.medium.com/i-got-claude-code-to-talk-to-gpt-grok-and-a-local-ollama-model-heres-what-actually-held-up-cfebbb08c094?source=rss-8f0134a6aa62------2) _(Sep 9, 2026)_
 - [Graph as Architecture, Not Graph as Data: Why I Stopped Reaching for GraphRAG First](https://topuzas.medium.com/graph-as-architecture-not-graph-as-data-why-i-stopped-reaching-for-graphrag-first-d0a46d25574b?source=rss-8f0134a6aa62------2) _(Sep 9, 2026)_
 - [Claude Code Is an Operating Layer for Engineering Work: I Went Looking for Proof Instead of Just…](https://topuzas.medium.com/claude-code-is-an-operating-layer-for-engineering-work-i-went-looking-for-proof-instead-of-just-ad086a0ef448?source=rss-8f0134a6aa62------2) _(Sep 8, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agent Skills vs MCP: I Stopped Reading Hot Takes and Measured the Actual Context Cost](https://topuzas.medium.com/agent-skills-vs-mcp-i-stopped-reading-hot-takes-and-measured-the-actual-context-cost-8053e10c5c9e?source=rss-8f0134a6aa62------2) _(Sep 7, 2026)_
 - [I Spent My Weekend Reading the Paper That Cracked Every Major LLM’s “Encrypted” Reasoning, and It’s…](https://topuzas.medium.com/i-spent-my-weekend-reading-the-paper-that-cracked-every-major-llms-encrypted-reasoning-and-it-s-aa81fcb31090?source=rss-8f0134a6aa62------2) _(Sep 7, 2026)_
 - [The Real Cost Curve of Running Agents in Production, One Layer at a Time](https://topuzas.medium.com/the-real-cost-curve-of-running-agents-in-production-one-layer-at-a-time-837acf76ce72?source=rss-8f0134a6aa62------2) _(Sep 6, 2026)_
-- [An AI Agent “Attacked” a Gym in Australia. It Wasn’t Trying To.](https://topuzas.medium.com/an-ai-agent-attacked-a-gym-in-australia-it-wasnt-trying-to-db8bc5143674?source=rss-8f0134a6aa62------2) _(Sep 6, 2026)_
-- [What a Bad Week of AI Agent Headlines Actually Teaches About Oversight](https://topuzas.medium.com/what-a-bad-week-of-ai-agent-headlines-actually-teaches-about-oversight-0507f4328e2d?source=rss-8f0134a6aa62------2) _(Sep 4, 2026)_
-- [I Finally Put Claude Managed Agents’ August Update Through Its Paces, and It Fixes the Four Things…](https://topuzas.medium.com/i-finally-put-claude-managed-agents-august-update-through-its-paces-and-it-fixes-the-four-things-a129521ba7df?source=rss-8f0134a6aa62------2) _(Sep 4, 2026)_<!-- BLOG-POST-LIST:END -->
+- [An AI Agent “Attacked” a Gym in Australia. It Wasn’t Trying To.](https://topuzas.medium.com/an-ai-agent-attacked-a-gym-in-australia-it-wasnt-trying-to-db8bc5143674?source=rss-8f0134a6aa62------2) _(Sep 6, 2026)_<!-- BLOG-POST-LIST:END -->
