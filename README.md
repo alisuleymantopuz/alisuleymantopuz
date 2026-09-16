@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Week Three Real Security Incidents Happened to AI Agents, and What Each One Actually Teaches](https://pub.towardsai.net/the-week-three-real-security-incidents-happened-to-ai-agents-and-what-each-one-actually-teaches-9590a2274c4f?source=rss-8f0134a6aa62------2) _(Sep 15, 2026)_
 - [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
 - [What a 17.5x Cost Gap Between Coding Harnesses Actually Teaches You](https://topuzas.medium.com/what-a-17-5x-cost-gap-between-coding-harnesses-actually-teaches-you-e3ab9dbea3af?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
 - [Building a Production-Grade Eval Pipeline for Your Agent, Not Just a Demo](https://topuzas.medium.com/building-a-production-grade-eval-pipeline-for-your-agent-not-just-a-demo-97658ad6e68b?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Your .NET Agent Is in Production, Your Engineering Discipline Isn’t.](https://topuzas.medium.com/your-net-agent-is-in-production-your-engineering-discipline-isnt-61e3e05181e3?source=rss-8f0134a6aa62------2) _(Sep 11, 2026)_
 - [I Got Claude Code to Talk to GPT, Grok, and a Local Ollama Model. Here’s What Actually Held Up](https://topuzas.medium.com/i-got-claude-code-to-talk-to-gpt-grok-and-a-local-ollama-model-heres-what-actually-held-up-cfebbb08c094?source=rss-8f0134a6aa62------2) _(Sep 9, 2026)_
 - [Graph as Architecture, Not Graph as Data: Why I Stopped Reaching for GraphRAG First](https://topuzas.medium.com/graph-as-architecture-not-graph-as-data-why-i-stopped-reaching-for-graphrag-first-d0a46d25574b?source=rss-8f0134a6aa62------2) _(Sep 9, 2026)_
-- [Claude Code Is an Operating Layer for Engineering Work: I Went Looking for Proof Instead of Just…](https://topuzas.medium.com/claude-code-is-an-operating-layer-for-engineering-work-i-went-looking-for-proof-instead-of-just-ad086a0ef448?source=rss-8f0134a6aa62------2) _(Sep 8, 2026)_
-- [The World Your Agent Thinks In: What Two Ontology Experiments Taught Me About Graph Design](https://topuzas.medium.com/the-world-your-agent-thinks-in-what-two-ontology-experiments-taught-me-about-graph-design-ebea14b8f074?source=rss-8f0134a6aa62------2) _(Sep 8, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Claude Code Is an Operating Layer for Engineering Work: I Went Looking for Proof Instead of Just…](https://topuzas.medium.com/claude-code-is-an-operating-layer-for-engineering-work-i-went-looking-for-proof-instead-of-just-ad086a0ef448?source=rss-8f0134a6aa62------2) _(Sep 8, 2026)_<!-- BLOG-POST-LIST:END -->
