@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompts Are Consumables, Evals Are Capital: Rethinking What Actually Survives a Model Upgrade](https://blog.gopenai.com/prompts-are-consumables-evals-are-capital-rethinking-what-actually-survives-a-model-upgrade-f63890ac40da?source=rss-8f0134a6aa62------2) _(Sep 20, 2026)_
 - [Your AI Agent’s Reasoning Isn’t as Private as You Think](https://pub.towardsai.net/your-ai-agents-reasoning-isn-t-as-private-as-you-think-593cbc64eb91?source=rss-8f0134a6aa62------2) _(Sep 19, 2026)_
 - [Building a One-Person Software Factory: Token-Efficient Agentic Workflows That Actually Hold Up](https://topuzas.medium.com/building-a-one-person-software-factory-token-efficient-agentic-workflows-that-actually-hold-up-c2edabc007a8?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
 - [When &lpar;Not&rpar; to Use MCP in .NET: A Practical Guide](https://topuzas.medium.com/when-not-to-use-mcp-in-net-a-practical-guide-a248f879861d?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
 - [What a 17.5x Cost Gap Between Coding Harnesses Actually Teaches You](https://topuzas.medium.com/what-a-17-5x-cost-gap-between-coding-harnesses-actually-teaches-you-e3ab9dbea3af?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
 - [Building a Production-Grade Eval Pipeline for Your Agent, Not Just a Demo](https://topuzas.medium.com/building-a-production-grade-eval-pipeline-for-your-agent-not-just-a-demo-97658ad6e68b?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_
-- [Microsoft.Extensions.AI’s New Failover Feature Has a Streaming Blind Spot](https://topuzas.medium.com/microsoft-extensions-ais-new-failover-feature-has-a-streaming-blind-spot-c83e90db49d7?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_
-- [Inside a Real Multi-Agent Claude Code Setup: Two Leads, 9 Projects, 40 Prompts a Day](https://topuzas.medium.com/inside-a-real-multi-agent-claude-code-setup-two-leads-9-projects-40-prompts-a-day-77fe16868297?source=rss-8f0134a6aa62------2) _(Sep 11, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Microsoft.Extensions.AI’s New Failover Feature Has a Streaming Blind Spot](https://topuzas.medium.com/microsoft-extensions-ais-new-failover-feature-has-a-streaming-blind-spot-c83e90db49d7?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_<!-- BLOG-POST-LIST:END -->
