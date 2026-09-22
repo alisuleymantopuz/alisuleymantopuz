@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Ways to Wire an Agent Harness, and What Actually Changes Between Them](https://pub.towardsai.net/seven-ways-to-wire-an-agent-harness-and-what-actually-changes-between-them-495495bcccfc?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
+- [The Case Against Your Own Agent Stack: What Contrarians Get Right This Year](https://pub.towardsai.net/the-case-against-your-own-agent-stack-what-contrarians-get-right-this-year-d80386fab0d9?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
 - [Prompts Are Consumables, Evals Are Capital: Rethinking What Actually Survives a Model Upgrade](https://blog.gopenai.com/prompts-are-consumables-evals-are-capital-rethinking-what-actually-survives-a-model-upgrade-f63890ac40da?source=rss-8f0134a6aa62------2) _(Sep 20, 2026)_
 - [Your AI Agent’s Reasoning Isn’t as Private as You Think](https://pub.towardsai.net/your-ai-agents-reasoning-isn-t-as-private-as-you-think-593cbc64eb91?source=rss-8f0134a6aa62------2) _(Sep 19, 2026)_
 - [Building a One-Person Software Factory: Token-Efficient Agentic Workflows That Actually Hold Up](https://topuzas.medium.com/building-a-one-person-software-factory-token-efficient-agentic-workflows-that-actually-hold-up-c2edabc007a8?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Five Rules for a Claude Code Agent That Runs Itself](https://topuzas.medium.com/five-rules-for-a-claude-code-agent-that-runs-itself-6fe8ad96d1eb?source=rss-8f0134a6aa62------2) _(Sep 16, 2026)_
 - [The Week Three Real Security Incidents Happened to AI Agents, and What Each One Actually Teaches](https://pub.towardsai.net/the-week-three-real-security-incidents-happened-to-ai-agents-and-what-each-one-actually-teaches-9590a2274c4f?source=rss-8f0134a6aa62------2) _(Sep 15, 2026)_
 - [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
-- [What a 17.5x Cost Gap Between Coding Harnesses Actually Teaches You](https://topuzas.medium.com/what-a-17-5x-cost-gap-between-coding-harnesses-actually-teaches-you-e3ab9dbea3af?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
-- [Building a Production-Grade Eval Pipeline for Your Agent, Not Just a Demo](https://topuzas.medium.com/building-a-production-grade-eval-pipeline-for-your-agent-not-just-a-demo-97658ad6e68b?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_
-- [Microsoft.Extensions.AI’s New Failover Feature Has a Streaming Blind Spot](https://topuzas.medium.com/microsoft-extensions-ais-new-failover-feature-has-a-streaming-blind-spot-c83e90db49d7?source=rss-8f0134a6aa62------2) _(Sep 12, 2026)_<!-- BLOG-POST-LIST:END -->
+- [What a 17.5x Cost Gap Between Coding Harnesses Actually Teaches You](https://topuzas.medium.com/what-a-17-5x-cost-gap-between-coding-harnesses-actually-teaches-you-e3ab9dbea3af?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_<!-- BLOG-POST-LIST:END -->
