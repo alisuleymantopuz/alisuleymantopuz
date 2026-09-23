@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Harness vs Codex vs Claude Code: What I Learned Comparing Three Agent Harnesses](https://topuzas.medium.com/deepseek-harness-vs-codex-vs-claude-code-what-i-learned-comparing-three-agent-harnesses-691c364f2240?source=rss-8f0134a6aa62------2) _(Sep 22, 2026)_
 - [Seven Ways to Wire an Agent Harness, and What Actually Changes Between Them](https://pub.towardsai.net/seven-ways-to-wire-an-agent-harness-and-what-actually-changes-between-them-495495bcccfc?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
 - [The Case Against Your Own Agent Stack: What Contrarians Get Right This Year](https://pub.towardsai.net/the-case-against-your-own-agent-stack-what-contrarians-get-right-this-year-d80386fab0d9?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
 - [Prompts Are Consumables, Evals Are Capital: Rethinking What Actually Survives a Model Upgrade](https://blog.gopenai.com/prompts-are-consumables-evals-are-capital-rethinking-what-actually-survives-a-model-upgrade-f63890ac40da?source=rss-8f0134a6aa62------2) _(Sep 20, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [When &lpar;Not&rpar; to Use MCP in .NET: A Practical Guide](https://topuzas.medium.com/when-not-to-use-mcp-in-net-a-practical-guide-a248f879861d?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
 - [Five Rules for a Claude Code Agent That Runs Itself](https://topuzas.medium.com/five-rules-for-a-claude-code-agent-that-runs-itself-6fe8ad96d1eb?source=rss-8f0134a6aa62------2) _(Sep 16, 2026)_
 - [The Week Three Real Security Incidents Happened to AI Agents, and What Each One Actually Teaches](https://pub.towardsai.net/the-week-three-real-security-incidents-happened-to-ai-agents-and-what-each-one-actually-teaches-9590a2274c4f?source=rss-8f0134a6aa62------2) _(Sep 15, 2026)_
-- [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_
-- [What a 17.5x Cost Gap Between Coding Harnesses Actually Teaches You](https://topuzas.medium.com/what-a-17-5x-cost-gap-between-coding-harnesses-actually-teaches-you-e3ab9dbea3af?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_<!-- BLOG-POST-LIST:END -->
+- [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_<!-- BLOG-POST-LIST:END -->
