@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Microsoft Agent Framework Posts, One Working App: RAG, a Custom Agent, and a Workflow Graph…](https://topuzas.medium.com/three-microsoft-agent-framework-posts-one-working-app-rag-a-custom-agent-and-a-workflow-graph-a0bce3042a07?source=rss-8f0134a6aa62------2) _(Sep 25, 2026)_
+- [Your Agent’s Memory Is Probably Wrong: A Practical Guide to Agentic Memory Design](https://topuzas.medium.com/your-agents-memory-is-probably-wrong-a-practical-guide-to-agentic-memory-design-0b3fb0915612?source=rss-8f0134a6aa62------2) _(Sep 25, 2026)_
 - [DeepSeek Harness vs Codex vs Claude Code: What I Learned Comparing Three Agent Harnesses](https://topuzas.medium.com/deepseek-harness-vs-codex-vs-claude-code-what-i-learned-comparing-three-agent-harnesses-691c364f2240?source=rss-8f0134a6aa62------2) _(Sep 22, 2026)_
 - [Seven Ways to Wire an Agent Harness, and What Actually Changes Between Them](https://pub.towardsai.net/seven-ways-to-wire-an-agent-harness-and-what-actually-changes-between-them-495495bcccfc?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
 - [The Case Against Your Own Agent Stack: What Contrarians Get Right This Year](https://pub.towardsai.net/the-case-against-your-own-agent-stack-what-contrarians-get-right-this-year-d80386fab0d9?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Your AI Agent’s Reasoning Isn’t as Private as You Think](https://pub.towardsai.net/your-ai-agents-reasoning-isn-t-as-private-as-you-think-593cbc64eb91?source=rss-8f0134a6aa62------2) _(Sep 19, 2026)_
 - [Building a One-Person Software Factory: Token-Efficient Agentic Workflows That Actually Hold Up](https://topuzas.medium.com/building-a-one-person-software-factory-token-efficient-agentic-workflows-that-actually-hold-up-c2edabc007a8?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
 - [When &lpar;Not&rpar; to Use MCP in .NET: A Practical Guide](https://topuzas.medium.com/when-not-to-use-mcp-in-net-a-practical-guide-a248f879861d?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_
-- [Five Rules for a Claude Code Agent That Runs Itself](https://topuzas.medium.com/five-rules-for-a-claude-code-agent-that-runs-itself-6fe8ad96d1eb?source=rss-8f0134a6aa62------2) _(Sep 16, 2026)_
-- [The Week Three Real Security Incidents Happened to AI Agents, and What Each One Actually Teaches](https://pub.towardsai.net/the-week-three-real-security-incidents-happened-to-ai-agents-and-what-each-one-actually-teaches-9590a2274c4f?source=rss-8f0134a6aa62------2) _(Sep 15, 2026)_
-- [The Real Economics of Running Claude Code Agents in Production](https://topuzas.medium.com/the-real-economics-of-running-claude-code-agents-in-production-4ed5b1a86b27?source=rss-8f0134a6aa62------2) _(Sep 13, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Five Rules for a Claude Code Agent That Runs Itself](https://topuzas.medium.com/five-rules-for-a-claude-code-agent-that-runs-itself-6fe8ad96d1eb?source=rss-8f0134a6aa62------2) _(Sep 16, 2026)_<!-- BLOG-POST-LIST:END -->
