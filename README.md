@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Authorized the Agent? Building Real Identity and Delegation for AI Agents in .NET](https://topuzas.medium.com/who-authorized-the-agent-building-real-identity-and-delegation-for-ai-agents-in-net-4134b138b10a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
+- [The Real Cost Curve of Running Agents in Production, From Four Different Companies](https://topuzas.medium.com/the-real-cost-curve-of-running-agents-in-production-from-four-different-companies-680852d18c5a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
 - [.NET + AI in Production: What Actually Works &lpar;A Field Survey&rpar;](https://topuzas.medium.com/net-ai-in-production-what-actually-works-a-field-survey-42183fce9d18?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_
 - [State, Memory, and the Two Camps Fighting Over What Your Agent Should Remember](https://topuzas.medium.com/state-memory-and-the-two-camps-fighting-over-what-your-agent-should-remember-ff91707b91e1?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_
 - [Three Microsoft Agent Framework Posts, One Working App: RAG, a Custom Agent, and a Workflow Graph…](https://topuzas.medium.com/three-microsoft-agent-framework-posts-one-working-app-rag-a-custom-agent-and-a-workflow-graph-a0bce3042a07?source=rss-8f0134a6aa62------2) _(Sep 25, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [DeepSeek Harness vs Codex vs Claude Code: What I Learned Comparing Three Agent Harnesses](https://topuzas.medium.com/deepseek-harness-vs-codex-vs-claude-code-what-i-learned-comparing-three-agent-harnesses-691c364f2240?source=rss-8f0134a6aa62------2) _(Sep 22, 2026)_
 - [Seven Ways to Wire an Agent Harness, and What Actually Changes Between Them](https://pub.towardsai.net/seven-ways-to-wire-an-agent-harness-and-what-actually-changes-between-them-495495bcccfc?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
 - [The Case Against Your Own Agent Stack: What Contrarians Get Right This Year](https://pub.towardsai.net/the-case-against-your-own-agent-stack-what-contrarians-get-right-this-year-d80386fab0d9?source=rss-8f0134a6aa62------2) _(Sep 21, 2026)_
-- [Prompts Are Consumables, Evals Are Capital: Rethinking What Actually Survives a Model Upgrade](https://blog.gopenai.com/prompts-are-consumables-evals-are-capital-rethinking-what-actually-survives-a-model-upgrade-f63890ac40da?source=rss-8f0134a6aa62------2) _(Sep 20, 2026)_
-- [Your AI Agent’s Reasoning Isn’t as Private as You Think](https://pub.towardsai.net/your-ai-agents-reasoning-isn-t-as-private-as-you-think-593cbc64eb91?source=rss-8f0134a6aa62------2) _(Sep 19, 2026)_
-- [Building a One-Person Software Factory: Token-Efficient Agentic Workflows That Actually Hold Up](https://topuzas.medium.com/building-a-one-person-software-factory-token-efficient-agentic-workflows-that-actually-hold-up-c2edabc007a8?source=rss-8f0134a6aa62------2) _(Sep 17, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Prompts Are Consumables, Evals Are Capital: Rethinking What Actually Survives a Model Upgrade](https://blog.gopenai.com/prompts-are-consumables-evals-are-capital-rethinking-what-actually-survives-a-model-upgrade-f63890ac40da?source=rss-8f0134a6aa62------2) _(Sep 20, 2026)_<!-- BLOG-POST-LIST:END -->
