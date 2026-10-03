@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Week Inside Jev: What a Non-Generative Decision Model Is Actually Good For](https://pub.towardsai.net/a-week-inside-jev-what-a-non-generative-decision-model-is-actually-good-for-361edd1284e9?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
+- [Your Knowledge Graph Is Measuring Your Pipeline, Not Your Subject: A Replication Attempt](https://pub.towardsai.net/your-knowledge-graph-is-measuring-your-pipeline-not-your-subject-a-replication-attempt-6b62462820c6?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
 - [Three Signals Say MCP Is Not Always the Right Tool, and What to Reach For Instead](https://topuzas.medium.com/three-signals-say-mcp-is-not-always-the-right-tool-and-what-to-reach-for-instead-d251940c0594?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
 - [Multi-Agent Systems Don’t Have a Consistency Problem. They Have a Database Problem.](https://topuzas.medium.com/multi-agent-systems-dont-have-a-consistency-problem-they-have-a-database-problem-60dbd927b062?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
 - [Harness, Framework, or SDK: I Audited My Own Agent Stack Against a Real Source-Code Study](https://topuzas.medium.com/harness-framework-or-sdk-i-audited-my-own-agent-stack-against-a-real-source-code-study-1e16eec382db?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Who Authorized the Agent? Building Real Identity and Delegation for AI Agents in .NET](https://topuzas.medium.com/who-authorized-the-agent-building-real-identity-and-delegation-for-ai-agents-in-net-4134b138b10a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
 - [The Real Cost Curve of Running Agents in Production, From Four Different Companies](https://topuzas.medium.com/the-real-cost-curve-of-running-agents-in-production-from-four-different-companies-680852d18c5a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
 - [.NET + AI in Production: What Actually Works &lpar;A Field Survey&rpar;](https://topuzas.medium.com/net-ai-in-production-what-actually-works-a-field-survey-42183fce9d18?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_
-- [State, Memory, and the Two Camps Fighting Over What Your Agent Should Remember](https://topuzas.medium.com/state-memory-and-the-two-camps-fighting-over-what-your-agent-should-remember-ff91707b91e1?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_
-- [Three Microsoft Agent Framework Posts, One Working App: RAG, a Custom Agent, and a Workflow Graph…](https://topuzas.medium.com/three-microsoft-agent-framework-posts-one-working-app-rag-a-custom-agent-and-a-workflow-graph-a0bce3042a07?source=rss-8f0134a6aa62------2) _(Sep 25, 2026)_
-- [Your Agent’s Memory Is Probably Wrong: A Practical Guide to Agentic Memory Design](https://topuzas.medium.com/your-agents-memory-is-probably-wrong-a-practical-guide-to-agentic-memory-design-0b3fb0915612?source=rss-8f0134a6aa62------2) _(Sep 25, 2026)_<!-- BLOG-POST-LIST:END -->
+- [State, Memory, and the Two Camps Fighting Over What Your Agent Should Remember](https://topuzas.medium.com/state-memory-and-the-two-camps-fighting-over-what-your-agent-should-remember-ff91707b91e1?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_<!-- BLOG-POST-LIST:END -->
