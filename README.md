@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Agent’s Memory Shouldn’t Be a Vector Database. It Should Be a Markdown File.](https://topuzas.medium.com/your-agents-memory-shouldn-t-be-a-vector-database-it-should-be-a-markdown-file-8cc9fc34c31c?source=rss-8f0134a6aa62------2) _(Oct 4, 2026)_
 - [A Week Inside Jev: What a Non-Generative Decision Model Is Actually Good For](https://pub.towardsai.net/a-week-inside-jev-what-a-non-generative-decision-model-is-actually-good-for-361edd1284e9?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
 - [Your Knowledge Graph Is Measuring Your Pipeline, Not Your Subject: A Replication Attempt](https://pub.towardsai.net/your-knowledge-graph-is-measuring-your-pipeline-not-your-subject-a-replication-attempt-6b62462820c6?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
 - [Three Signals Say MCP Is Not Always the Right Tool, and What to Reach For Instead](https://topuzas.medium.com/three-signals-say-mcp-is-not-always-the-right-tool-and-what-to-reach-for-instead-d251940c0594?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [My Eval Suite Was Lying to Me: Auditing the Judge, Not Just the Agent](https://topuzas.medium.com/my-eval-suite-was-lying-to-me-auditing-the-judge-not-just-the-agent-bfb3f8959404?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
 - [Who Authorized the Agent? Building Real Identity and Delegation for AI Agents in .NET](https://topuzas.medium.com/who-authorized-the-agent-building-real-identity-and-delegation-for-ai-agents-in-net-4134b138b10a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
 - [The Real Cost Curve of Running Agents in Production, From Four Different Companies](https://topuzas.medium.com/the-real-cost-curve-of-running-agents-in-production-from-four-different-companies-680852d18c5a?source=rss-8f0134a6aa62------2) _(Sep 29, 2026)_
-- [.NET + AI in Production: What Actually Works &lpar;A Field Survey&rpar;](https://topuzas.medium.com/net-ai-in-production-what-actually-works-a-field-survey-42183fce9d18?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_
-- [State, Memory, and the Two Camps Fighting Over What Your Agent Should Remember](https://topuzas.medium.com/state-memory-and-the-two-camps-fighting-over-what-your-agent-should-remember-ff91707b91e1?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_<!-- BLOG-POST-LIST:END -->
+- [.NET + AI in Production: What Actually Works &lpar;A Field Survey&rpar;](https://topuzas.medium.com/net-ai-in-production-what-actually-works-a-field-survey-42183fce9d18?source=rss-8f0134a6aa62------2) _(Sep 27, 2026)_<!-- BLOG-POST-LIST:END -->
