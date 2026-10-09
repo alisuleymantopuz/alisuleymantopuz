@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What a Week of AI Safety Incidents Actually Taught Me About Building Agents](https://topuzas.medium.com/what-a-week-of-ai-safety-incidents-actually-taught-me-about-building-agents-14db2f7c5ad0?source=rss-8f0134a6aa62------2) _(Oct 8, 2026)_
+- [Model Choice Is a .NET](https://topuzas.medium.com/model-choice-is-a-net-3183a40137c5?source=rss-8f0134a6aa62------2) _(Oct 8, 2026)_
 - [I Read the New MCP Apps Spec So You Don’t Have To: Here’s What Changes for .NET Developers](https://topuzas.medium.com/i-read-the-new-mcp-apps-spec-so-you-dont-have-to-here-s-what-changes-for-net-developers-7708a30a1888?source=rss-8f0134a6aa62------2) _(Oct 6, 2026)_
 - [Harness Engineering Is the New Bottleneck, Not the Model](https://topuzas.medium.com/harness-engineering-is-the-new-bottleneck-not-the-model-2d446ec31ff2?source=rss-8f0134a6aa62------2) _(Oct 6, 2026)_
 - [Tail Rent: What Actually Happens to Your Agent’s Memory After a Week of Continuous Runtime](https://pub.towardsai.net/tail-rent-what-actually-happens-to-your-agents-memory-after-a-week-of-continuous-runtime-34fc3ec18d5a?source=rss-8f0134a6aa62------2) _(Oct 5, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [A Week Inside Jev: What a Non-Generative Decision Model Is Actually Good For](https://pub.towardsai.net/a-week-inside-jev-what-a-non-generative-decision-model-is-actually-good-for-361edd1284e9?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
 - [Your Knowledge Graph Is Measuring Your Pipeline, Not Your Subject: A Replication Attempt](https://pub.towardsai.net/your-knowledge-graph-is-measuring-your-pipeline-not-your-subject-a-replication-attempt-6b62462820c6?source=rss-8f0134a6aa62------2) _(Oct 2, 2026)_
 - [Three Signals Say MCP Is Not Always the Right Tool, and What to Reach For Instead](https://topuzas.medium.com/three-signals-say-mcp-is-not-always-the-right-tool-and-what-to-reach-for-instead-d251940c0594?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
-- [Multi-Agent Systems Don’t Have a Consistency Problem. They Have a Database Problem.](https://topuzas.medium.com/multi-agent-systems-dont-have-a-consistency-problem-they-have-a-database-problem-60dbd927b062?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
-- [Harness, Framework, or SDK: I Audited My Own Agent Stack Against a Real Source-Code Study](https://topuzas.medium.com/harness-framework-or-sdk-i-audited-my-own-agent-stack-against-a-real-source-code-study-1e16eec382db?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_
-- [My Eval Suite Was Lying to Me: Auditing the Judge, Not Just the Agent](https://topuzas.medium.com/my-eval-suite-was-lying-to-me-auditing-the-judge-not-just-the-agent-bfb3f8959404?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Multi-Agent Systems Don’t Have a Consistency Problem. They Have a Database Problem.](https://topuzas.medium.com/multi-agent-systems-dont-have-a-consistency-problem-they-have-a-database-problem-60dbd927b062?source=rss-8f0134a6aa62------2) _(Oct 1, 2026)_<!-- BLOG-POST-LIST:END -->
