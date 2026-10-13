@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Just Got Skills Built In, Here’s What Changes for .NET Developers](https://topuzas.medium.com/mcp-just-got-skills-built-in-heres-what-changes-for-net-developers-e72cfdffb608?source=rss-8f0134a6aa62------2) _(Oct 12, 2026)_
+- [Durable Agents in .NET: Kill the Process and See What Survives](https://topuzas.medium.com/durable-agents-in-net-kill-the-process-and-see-what-survives-ed4e460519c8?source=rss-8f0134a6aa62------2) _(Oct 12, 2026)_
 - [I Ran a Harness Eval Loop on My Own .NET Agent. Here’s What Changed and What Didn’t](https://topuzas.medium.com/i-ran-a-harness-eval-loop-on-my-own-net-agent-heres-what-changed-and-what-didn-t-9646d6526db2?source=rss-8f0134a6aa62------2) _(Oct 11, 2026)_
 - [The DeepSeek Harness Teardown: What a Running Medium Series Taught Me About Plugin Lifecycles](https://topuzas.medium.com/the-deepseek-harness-teardown-what-a-running-medium-series-taught-me-about-plugin-lifecycles-4ead00553d3f?source=rss-8f0134a6aa62------2) _(Oct 11, 2026)_
 - [Agent Memory After the Hype: What Jev-Mem, KnowledgeX and BlogWriter Taught Me About My Own Grep…](https://pub.towardsai.net/agent-memory-after-the-hype-what-jev-mem-knowledgex-and-blogwriter-taught-me-about-my-own-grep-5a021886fdb3?source=rss-8f0134a6aa62------2) _(Oct 10, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [What a Week of AI Safety Incidents Actually Taught Me About Building Agents](https://topuzas.medium.com/what-a-week-of-ai-safety-incidents-actually-taught-me-about-building-agents-14db2f7c5ad0?source=rss-8f0134a6aa62------2) _(Oct 8, 2026)_
 - [Model Choice Is a .NET](https://topuzas.medium.com/model-choice-is-a-net-3183a40137c5?source=rss-8f0134a6aa62------2) _(Oct 8, 2026)_
 - [I Read the New MCP Apps Spec So You Don’t Have To: Here’s What Changes for .NET Developers](https://topuzas.medium.com/i-read-the-new-mcp-apps-spec-so-you-dont-have-to-here-s-what-changes-for-net-developers-7708a30a1888?source=rss-8f0134a6aa62------2) _(Oct 6, 2026)_
-- [Harness Engineering Is the New Bottleneck, Not the Model](https://topuzas.medium.com/harness-engineering-is-the-new-bottleneck-not-the-model-2d446ec31ff2?source=rss-8f0134a6aa62------2) _(Oct 6, 2026)_
-- [Tail Rent: What Actually Happens to Your Agent’s Memory After a Week of Continuous Runtime](https://pub.towardsai.net/tail-rent-what-actually-happens-to-your-agents-memory-after-a-week-of-continuous-runtime-34fc3ec18d5a?source=rss-8f0134a6aa62------2) _(Oct 5, 2026)_
-- [Your Agent’s Memory Shouldn’t Be a Vector Database. It Should Be a Markdown File.](https://topuzas.medium.com/your-agents-memory-shouldn-t-be-a-vector-database-it-should-be-a-markdown-file-8cc9fc34c31c?source=rss-8f0134a6aa62------2) _(Oct 4, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Harness Engineering Is the New Bottleneck, Not the Model](https://topuzas.medium.com/harness-engineering-is-the-new-bottleneck-not-the-model-2d446ec31ff2?source=rss-8f0134a6aa62------2) _(Oct 6, 2026)_<!-- BLOG-POST-LIST:END -->
