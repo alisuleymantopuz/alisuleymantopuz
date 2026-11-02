@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why “Spec-Driven Development” Needs a Deletion Test](https://topuzas.medium.com/why-spec-driven-development-needs-a-deletion-test-33e1704c0524?source=rss-8f0134a6aa62------2) _(Nov 1, 2026)_
 - [When Agents Route Around the Block: A Sandbox and Egress Checklist for .NET Agents](https://topuzas.medium.com/when-agents-route-around-the-block-a-sandbox-and-egress-checklist-for-net-agents-e2260a565c93?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
 - [Cutting Agent Token Costs in .NET: Tool Search, Output Gating and What the Numbers Really Say](https://pub.towardsai.net/cutting-agent-token-costs-in-net-tool-search-output-gating-and-what-the-numbers-really-say-d9e3f85ff30f?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
 - [The Steering Wheel Problem: run.steer&lpar;&rpar;, turn/steer and Who May Redirect a Running Agent](https://pub.towardsai.net/the-steering-wheel-problem-run-steer-turn-steer-and-who-may-redirect-a-running-agent-75d3af8be022?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Eval-Driven Development for a .NET Agent: Replaying Traces Instead of Re-Calling the Model](https://pub.towardsai.net/eval-driven-development-for-a-net-agent-replaying-traces-instead-of-re-calling-the-model-36d11183d98e?source=rss-8f0134a6aa62------2) _(Oct 23, 2026)_
 - [The Jev Gold Rush Is a Contract Story, Not a Model Story](https://pub.towardsai.net/the-jev-gold-rush-is-a-contract-story-not-a-model-story-21381ef20b28?source=rss-8f0134a6aa62------2) _(Oct 19, 2026)_
 - [I Built the Harness Tkachuk Describes: Approvals Enforced Outside the Model, in .NET](https://pub.towardsai.net/i-built-the-harness-tkachuk-describes-approvals-enforced-outside-the-model-in-net-12582701e3fc?source=rss-8f0134a6aa62------2) _(Oct 19, 2026)_
-- [More Agents, Smaller Gains: What Agensh, MAST and the Google Study Say About Your Orchestrator](https://pub.towardsai.net/more-agents-smaller-gains-what-agensh-mast-and-the-google-study-say-about-your-orchestrator-411be9c77062?source=rss-8f0134a6aa62------2) _(Oct 16, 2026)_
-- [What a 6.4 Percent Error Rate in a Benchmark’s Answer Key Taught Me About Trusting Agent Memory…](https://pub.towardsai.net/what-a-6-4-percent-error-rate-in-a-benchmarks-answer-key-taught-me-about-trusting-agent-memory-58415a8a8842?source=rss-8f0134a6aa62------2) _(Oct 16, 2026)_<!-- BLOG-POST-LIST:END -->
+- [More Agents, Smaller Gains: What Agensh, MAST and the Google Study Say About Your Orchestrator](https://pub.towardsai.net/more-agents-smaller-gains-what-agensh-mast-and-the-google-study-say-about-your-orchestrator-411be9c77062?source=rss-8f0134a6aa62------2) _(Oct 16, 2026)_<!-- BLOG-POST-LIST:END -->
