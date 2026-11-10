@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time](https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
+- [Does the Harness Move the Result or Only the Cost? An Ablation on a Local Model in .NET](https://pub.towardsai.net/does-the-harness-move-the-result-or-only-the-cost-an-ablation-on-a-local-model-in-net-67addcc2bc38?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
 - [Memory Is an Update Problem: Three Authors, Three Answers, One Disagreement](https://topuzas.medium.com/memory-is-an-update-problem-three-authors-three-answers-one-disagreement-26d517290f7a?source=rss-8f0134a6aa62------2) _(Nov 5, 2026)_
 - [I Compiled Five .NET Agent Tutorials Against the Real SDKs: What Worked and What Was Invented](https://topuzas.medium.com/i-compiled-five-net-agent-tutorials-against-the-real-sdks-what-worked-and-what-was-invented-b5cdec8b85ac?source=rss-8f0134a6aa62------2) _(Nov 5, 2026)_
 - [Agent Memory That Learns, Forgets and Stays Permissioned: A Week of Evidence](https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss-8f0134a6aa62------2) _(Nov 2, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Route First, Retrieve Second, But Never Trust the Router’s Confidence](https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss-8f0134a6aa62------2) _(Nov 2, 2026)_
 - [Why “Spec-Driven Development” Needs a Deletion Test](https://topuzas.medium.com/why-spec-driven-development-needs-a-deletion-test-33e1704c0524?source=rss-8f0134a6aa62------2) _(Nov 1, 2026)_
 - [When Agents Route Around the Block: A Sandbox and Egress Checklist for .NET Agents](https://topuzas.medium.com/when-agents-route-around-the-block-a-sandbox-and-egress-checklist-for-net-agents-e2260a565c93?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
-- [Cutting Agent Token Costs in .NET: Tool Search, Output Gating and What the Numbers Really Say](https://pub.towardsai.net/cutting-agent-token-costs-in-net-tool-search-output-gating-and-what-the-numbers-really-say-d9e3f85ff30f?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
-- [The Steering Wheel Problem: run.steer&lpar;&rpar;, turn/steer and Who May Redirect a Running Agent](https://pub.towardsai.net/the-steering-wheel-problem-run-steer-turn-steer-and-who-may-redirect-a-running-agent-75d3af8be022?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
-- [Five Memory Types, One Store: I Merged and Split Agent Memory and Measured the Damage](https://pub.towardsai.net/five-memory-types-one-store-i-merged-and-split-agent-memory-and-measured-the-damage-c61aab57ea25?source=rss-8f0134a6aa62------2) _(Oct 23, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Cutting Agent Token Costs in .NET: Tool Search, Output Gating and What the Numbers Really Say](https://pub.towardsai.net/cutting-agent-token-costs-in-net-tool-search-output-gating-and-what-the-numbers-really-say-d9e3f85ff30f?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_<!-- BLOG-POST-LIST:END -->
