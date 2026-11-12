@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Verified Publisher” Is Not a Trust Boundary: What the Trojanized Claude Code Extension Teaches…](https://pub.towardsai.net/verified-publisher-is-not-a-trust-boundary-what-the-trojanized-claude-code-extension-teaches-d8c5b2395dd0?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
+- [Your Sandbox Wraps a Process, but Your Agent Now Lives Behind a Service](https://pub.towardsai.net/your-sandbox-wraps-a-process-but-your-agent-now-lives-behind-a-service-bc05d36bab09?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
 - [A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time](https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
 - [Does the Harness Move the Result or Only the Cost? An Ablation on a Local Model in .NET](https://pub.towardsai.net/does-the-harness-move-the-result-or-only-the-cost-an-ablation-on-a-local-model-in-net-67addcc2bc38?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
 - [Memory Is an Update Problem: Three Authors, Three Answers, One Disagreement](https://topuzas.medium.com/memory-is-an-update-problem-three-authors-three-answers-one-disagreement-26d517290f7a?source=rss-8f0134a6aa62------2) _(Nov 5, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Agent Memory That Learns, Forgets and Stays Permissioned: A Week of Evidence](https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss-8f0134a6aa62------2) _(Nov 2, 2026)_
 - [What Breaks When Your Knowledge Graph Goes Stale: A Small .NET Drift Experiment](https://pub.towardsai.net/what-breaks-when-your-knowledge-graph-goes-stale-a-small-net-drift-experiment-d464d11c4a17?source=rss-8f0134a6aa62------2) _(Nov 2, 2026)_
 - [Route First, Retrieve Second, But Never Trust the Router’s Confidence](https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss-8f0134a6aa62------2) _(Nov 2, 2026)_
-- [Why “Spec-Driven Development” Needs a Deletion Test](https://topuzas.medium.com/why-spec-driven-development-needs-a-deletion-test-33e1704c0524?source=rss-8f0134a6aa62------2) _(Nov 1, 2026)_
-- [When Agents Route Around the Block: A Sandbox and Egress Checklist for .NET Agents](https://topuzas.medium.com/when-agents-route-around-the-block-a-sandbox-and-egress-checklist-for-net-agents-e2260a565c93?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_
-- [Cutting Agent Token Costs in .NET: Tool Search, Output Gating and What the Numbers Really Say](https://pub.towardsai.net/cutting-agent-token-costs-in-net-tool-search-output-gating-and-what-the-numbers-really-say-d9e3f85ff30f?source=rss-8f0134a6aa62------2) _(Oct 26, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Why “Spec-Driven Development” Needs a Deletion Test](https://topuzas.medium.com/why-spec-driven-development-needs-a-deletion-test-33e1704c0524?source=rss-8f0134a6aa62------2) _(Nov 1, 2026)_<!-- BLOG-POST-LIST:END -->
