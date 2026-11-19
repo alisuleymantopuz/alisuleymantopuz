@@ -37,6 +37,7 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me](https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss-8f0134a6aa62------2) _(Nov 18, 2026)_
 - [Memory That Learns From Mistakes, With a Human Gate and an Expiry Date](https://pub.towardsai.net/memory-that-learns-from-mistakes-with-a-human-gate-and-an-expiry-date-fe379fed0494?source=rss-8f0134a6aa62------2) _(Nov 16, 2026)_
 - [.NET Agents That Survive Restarts: Temporal, Typed Tool Outcomes, and the Call You Pay for Twice](https://pub.towardsai.net/net-agents-that-survive-restarts-temporal-typed-tool-outcomes-and-the-call-you-pay-for-twice-2bd00920adb3?source=rss-8f0134a6aa62------2) _(Nov 16, 2026)_
 - [Token Cost Without Guessing: What the Numbers Actually Prove, and a .NET Harness to Prove Your Own](https://pub.towardsai.net/token-cost-without-guessing-what-the-numbers-actually-prove-and-a-net-harness-to-prove-your-own-ba17aef93dab?source=rss-8f0134a6aa62------2) _(Nov 16, 2026)_
@@ -45,5 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [“Verified Publisher” Is Not a Trust Boundary: What the Trojanized Claude Code Extension Teaches…](https://pub.towardsai.net/verified-publisher-is-not-a-trust-boundary-what-the-trojanized-claude-code-extension-teaches-d8c5b2395dd0?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
 - [Your Sandbox Wraps a Process, but Your Agent Now Lives Behind a Service](https://pub.towardsai.net/your-sandbox-wraps-a-process-but-your-agent-now-lives-behind-a-service-bc05d36bab09?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
 - [A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time](https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
-- [Does the Harness Move the Result or Only the Cost? An Ablation on a Local Model in .NET](https://pub.towardsai.net/does-the-harness-move-the-result-or-only-the-cost-an-ablation-on-a-local-model-in-net-67addcc2bc38?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
-- [Memory Is an Update Problem: Three Authors, Three Answers, One Disagreement](https://topuzas.medium.com/memory-is-an-update-problem-three-authors-three-answers-one-disagreement-26d517290f7a?source=rss-8f0134a6aa62------2) _(Nov 5, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Does the Harness Move the Result or Only the Cost? An Ablation on a Local Model in .NET](https://pub.towardsai.net/does-the-harness-move-the-result-or-only-the-cost-an-ablation-on-a-local-model-in-net-67addcc2bc38?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_<!-- BLOG-POST-LIST:END -->
