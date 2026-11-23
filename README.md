@@ -37,6 +37,8 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 #### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [History Is Append-Only Now: What Thinking-Block Binding Means for Memory, Steering and Compaction](https://pub.towardsai.net/history-is-append-only-now-what-thinking-block-binding-means-for-memory-steering-and-compaction-2deacfdbf018?source=rss-8f0134a6aa62------2) _(Nov 22, 2026)_
+- [Software Factories Need Receipts: Evidence Packs, Merge Risk and the Numbers So Far](https://topuzas.medium.com/software-factories-need-receipts-evidence-packs-merge-risk-and-the-numbers-so-far-8d61bdc26625?source=rss-8f0134a6aa62------2) _(Nov 22, 2026)_
 - [Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me](https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss-8f0134a6aa62------2) _(Nov 18, 2026)_
 - [Memory That Learns From Mistakes, With a Human Gate and an Expiry Date](https://pub.towardsai.net/memory-that-learns-from-mistakes-with-a-human-gate-and-an-expiry-date-fe379fed0494?source=rss-8f0134a6aa62------2) _(Nov 16, 2026)_
 - [.NET Agents That Survive Restarts: Temporal, Typed Tool Outcomes, and the Call You Pay for Twice](https://pub.towardsai.net/net-agents-that-survive-restarts-temporal-typed-tool-outcomes-and-the-call-you-pay-for-twice-2bd00920adb3?source=rss-8f0134a6aa62------2) _(Nov 16, 2026)_
@@ -44,6 +46,4 @@ I specialize in designing and implementing complex, high-scale digital ecosystem
 - [Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals](https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss-8f0134a6aa62------2) _(Nov 13, 2026)_
 - [Measuring Review in Human Minutes: A Risk-Tier Gate for Agent Pull Requests in .NET](https://pub.towardsai.net/measuring-review-in-human-minutes-a-risk-tier-gate-for-agent-pull-requests-in-net-c13f301342fa?source=rss-8f0134a6aa62------2) _(Nov 13, 2026)_
 - [“Verified Publisher” Is Not a Trust Boundary: What the Trojanized Claude Code Extension Teaches…](https://pub.towardsai.net/verified-publisher-is-not-a-trust-boundary-what-the-trojanized-claude-code-extension-teaches-d8c5b2395dd0?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
-- [Your Sandbox Wraps a Process, but Your Agent Now Lives Behind a Service](https://pub.towardsai.net/your-sandbox-wraps-a-process-but-your-agent-now-lives-behind-a-service-bc05d36bab09?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_
-- [A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time](https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_
-- [Does the Harness Move the Result or Only the Cost? An Ablation on a Local Model in .NET](https://pub.towardsai.net/does-the-harness-move-the-result-or-only-the-cost-an-ablation-on-a-local-model-in-net-67addcc2bc38?source=rss-8f0134a6aa62------2) _(Nov 9, 2026)_<!-- BLOG-POST-LIST:END -->
+- [Your Sandbox Wraps a Process, but Your Agent Now Lives Behind a Service](https://pub.towardsai.net/your-sandbox-wraps-a-process-but-your-agent-now-lives-behind-a-service-bc05d36bab09?source=rss-8f0134a6aa62------2) _(Nov 11, 2026)_<!-- BLOG-POST-LIST:END -->
